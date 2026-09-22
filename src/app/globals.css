@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+/* Tokens de diseño (CLAUDE.md, sección 8). */
+@theme {
+  --color-*: initial;
+  --color-bg: #f3eee6;
+  --color-bg-alt: #eae3d8;
+  --color-placeholder: #e4dccf;
+  --color-ink: #16130f;
+  --color-ink-soft: #3e3831;
+  --color-muted: #5c554c;
+  --color-line: #d9d0c3;
+  --color-on-dark: #cfc6b8;
+  --color-accent: #7a2e22;
+  --color-transparent: transparent;
+  --color-current: currentColor;
+
+  --font-serif: var(--font-instrument-serif), Georgia, serif;
+  --font-sans: var(--font-archivo), system-ui, sans-serif;
+
+  /* Escala tipográfica: variante móvil (-sm) y escritorio. */
+  --text-hero-sm: 3.375rem;
+  --text-hero-sm--line-height: 0.95;
+  --text-hero: 5.5rem;
+  --text-hero--line-height: 0.95;
+  --text-verse-sm: 3.125rem;
+  --text-verse-sm--line-height: 1;
+  --text-verse: 5.25rem;
+  --text-verse--line-height: 0.98;
+  --text-h2-sm: 2.375rem;
+  --text-h2-sm--line-height: 1.05;
+  --text-h2: 3.25rem;
+  --text-h2--line-height: 1.05;
+  --text-h3-sm: 1.5rem;
+  --text-h3-sm--line-height: 1.15;
+  --text-h3: 1.875rem;
+  --text-h3--line-height: 1.15;
+  --text-body-sm: 0.9375rem;
+  --text-body-sm--line-height: 1.7;
+  --text-body: 1.0625rem;
+  --text-body--line-height: 1.7;
+  --text-small: 0.8125rem;
+  --text-small--line-height: 1.5;
+  --text-small-plus: 0.875rem;
+  --text-small-plus--line-height: 1.5;
+
+  --radius-btn: 2px;
+  --radius-chip: 999px;
+
+  --container-page: 1440px;
+  --container-prose: 70ch;
+}
+
+/* Contenedor de página: 1440 px máx., 20 px de margen en móvil y 64 px en escritorio. */
+@utility wrap {
+  width: 100%;
+  max-width: var(--container-page);
+  margin-inline: auto;
+  padding-inline: 20px;
+  @media (width >= 64rem) {
+    padding-inline: 64px;
+  }
+}
+
+/* Separación entre secciones: 48 px en móvil y 72 px en escritorio. */
+@utility section-y {
+  padding-block: 48px;
+  @media (width >= 64rem) {
+    padding-block: 72px;
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-bg text-ink font-sans text-body-sm antialiased lg:text-body;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+
+  /* Bloquea el scroll de la página con el menú móvil abierto. */
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
