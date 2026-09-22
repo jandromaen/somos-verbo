@@ -5,7 +5,7 @@ collection: confianza
 sort: 11
 popular_phrase: No temeré mal alguno
 text_reference: "Salmo 23:4"
-text_rvr: "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento."
+text_rvr: "Aunque ande en valle de sombra de muerte, No temeré mal alguno, porque tú estarás conmigo; Tu vara y tu cayado me infundirán aliento."
 h1: "Sudaderas y camisetas del Salmo 23:4: «No temeré mal alguno»"
 intro: "El Salmo 23:4 es el versículo para atravesar los valles oscuros de la vida. Aquí tienes la sudadera y la camiseta con «No temeré mal alguno» y el sentido de la vara y el cayado del pastor."
 numbering_note: "En la numeración litúrgica (griega y latina) es el Salmo 22."

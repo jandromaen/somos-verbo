@@ -5,7 +5,7 @@ collection: confianza
 sort: 7
 popular_phrase: Confía en el Señor de todo corazón
 text_reference: "Proverbios 3:5"
-text_rvr: "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia."
+text_rvr: "Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia."
 h1: "Sudaderas y camisetas de Proverbios 3:5: «Confía en el Señor de todo corazón»"
 intro: "Proverbios 3:5 es un consejo breve para cuando no sabes qué hacer. Aquí tienes la sudadera y la camiseta con «Confía en el Señor de todo corazón» y lo que enseña este versículo de sabiduría."
 numbering_note: null

@@ -5,7 +5,7 @@ collection: esperanza
 sort: 16
 popular_phrase: Mi socorro viene del Señor
 text_reference: "Salmo 121:2"
-text_rvr: "Mi socorro viene de Jehová, que hizo los cielos y la tierra."
+text_rvr: "Mi socorro viene de Jehová, Que hizo los cielos y la tierra."
 h1: "Sudaderas y camisetas del Salmo 121:2: «Mi socorro viene del Señor»"
 intro: "El Salmo 121:2 es la oración de quien se pone en camino y levanta la vista buscando ayuda. Aquí tienes la sudadera y la camiseta con «Mi socorro viene del Señor» y el contexto de este salmo de peregrinos."
 numbering_note: "En la numeración litúrgica (griega y latina) es el Salmo 120."

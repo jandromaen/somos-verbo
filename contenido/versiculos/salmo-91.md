@@ -5,7 +5,7 @@ collection: esperanza
 sort: 8
 popular_phrase: Al abrigo del Altísimo
 text_reference: "Salmo 91:1-2"
-text_rvr: "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente. Diré yo a Jehová: Esperanza mía, y castillo mío; mi Dios, en quien confiaré."
+text_rvr: "El que habita al abrigo del Altísimo Morará bajo la sombra del Omnipotente. Diré yo a Jehová: Esperanza mía, y castillo mío; Mi Dios, en quien confiaré."
 h1: "Sudaderas y camisetas del Salmo 91: «Al abrigo del Altísimo»"
 intro: "El Salmo 91 es el salmo de la protección, rezado desde hace siglos en tiempos de peligro. Aquí tienes la sudadera y la camiseta con «Al abrigo del Altísimo» y el sentido de sus primeros versículos."
 numbering_note: "En la numeración litúrgica (griega y latina) es el Salmo 90."

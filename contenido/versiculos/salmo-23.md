@@ -5,7 +5,7 @@ collection: confianza
 sort: 3
 popular_phrase: El Señor es mi pastor
 text_reference: "Salmo 23:1-3"
-text_rvr: "Jehová es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi alma; me guiará por sendas de justicia por amor de su nombre."
+text_rvr: "Jehová es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; Junto a aguas de reposo me pastoreará. Confortará mi alma; Me guiará por sendas de justicia por amor de su nombre."
 h1: "Sudaderas y camisetas del Salmo 23: «El Señor es mi pastor»"
 intro: "El Salmo 23 es la oración de confianza más conocida de la Biblia. Aquí tienes la sudadera y la camiseta con «El Señor es mi pastor» y lo que significa la imagen del buen pastor."
 numbering_note: "En la numeración litúrgica (griega y latina) es el Salmo 22."
