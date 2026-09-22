@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 5:1
 
-La segunda carta a los Corintios es la más personal de Pablo. En ella habla de sus cansancios, de sus miedos y de la tensión con una comunidad a la que quería mucho. En el capítulo 4 ha descrito su vida apostólica sin adornos: atribulados, perplejos, perseguidos, derribados, pero no destruidos. Y ha dicho que, aunque el hombre exterior se va desgastando, el interior se renueva de día en día (2 Corintios 4:16).
+¿Qué pasa cuando el cuerpo empieza a fallar? Pablo se hace esa pregunta en una carta donde no oculta sus cansancios, sus miedos ni la tensión con una comunidad a la que quería mucho. En el capítulo 4 ha descrito su vida apostólica sin adornos: atribulados, perplejos, perseguidos, derribados, pero no destruidos. Y ha dicho que, aunque el hombre exterior se va desgastando, el interior se renueva de día en día (2 Corintios 4:16).
 
 El capítulo 5 continúa esa reflexión con una imagen muy concreta. Pablo compara el cuerpo con una tienda, «este tabernáculo». Era algo que conocía bien, porque según el libro de los Hechos se ganaba la vida fabricando tiendas. Sabía que la lona se gasta, que las cuerdas se rompen y que, tarde o temprano, una tienda se desmonta.
 

@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 1 Tesalonicenses 5:16-18
 
-La Primera Carta a los Tesalonicenses es probablemente uno de los escritos más antiguos del Nuevo Testamento. San Pablo la dirige a la comunidad de Tesalónica, en Macedonia, que había fundado poco antes y de la que tuvo que marcharse deprisa por la oposición que encontró. Aquellos cristianos eran recién llegados a la fe y vivían bajo presión.
+¿Se puede estar alegre siempre? Leída deprisa, la primera frase de este pasaje parece pedir lo imposible. San Pablo la escribe a la comunidad de Tesalónica, en Macedonia, que había fundado poco antes y de la que tuvo que marcharse deprisa por la oposición que encontró. Aquellos cristianos eran recién llegados a la fe y vivían bajo presión. La carta que les envía es probablemente uno de los escritos más antiguos del Nuevo Testamento.
 
 Al final de la carta, Pablo encadena una serie de consejos breves, casi telegráficos. Entre ellos están estos tres versículos, que se leen de un tirón: «Estad siempre gozosos. Orad sin cesar. Dad gracias en todo». Son tres actitudes que se sostienen unas a otras.
 

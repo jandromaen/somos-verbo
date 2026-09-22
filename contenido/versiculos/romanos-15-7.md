@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Romanos 15:7
 
-La carta a los Romanos es la más extensa de san Pablo. La escribió, probablemente desde Corinto, a una comunidad que aún no conocía en persona. Después de once capítulos de reflexión sobre la fe y la gracia, la carta baja al terreno práctico: cómo convivir.
+Recibir a alguien es más que tolerarlo: es hacerle sitio en tu mesa. Eso pide Pablo a unos cristianos de Roma a los que aún no conocía en persona y a los que escribió, probablemente, desde Corinto. Después de once capítulos de reflexión sobre la fe y la gracia, la carta baja al terreno práctico: cómo convivir.
 
 Y en Roma convivir no era sencillo. Había creyentes de origen judío, acostumbrados a ciertas normas sobre alimentos y fiestas, y creyentes de origen pagano que no las seguían. En el capítulo 14 Pablo habla de los «débiles» y los «fuertes» en la fe, y pide que nadie desprecie ni juzgue al otro por esas cuestiones.
 

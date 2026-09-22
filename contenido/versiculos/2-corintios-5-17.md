@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 5:17
 
-La segunda carta a los Corintios es la más personal de san Pablo. Escribe a una comunidad que él mismo fundó en Corinto, una ciudad portuaria griega, con la que había tenido tensiones y malentendidos. En los capítulos 4 y 5 explica por qué sigue adelante a pesar del cansancio y las críticas.
+«Nueva criatura» es una expresión fuerte, y Pablo la usa escribiendo a una comunidad que conocía bien sus defectos y los de él. La había fundado en Corinto, una ciudad portuaria griega, y con ella había tenido tensiones y malentendidos. En los capítulos 4 y 5 de esta segunda carta explica por qué sigue adelante a pesar del cansancio y las críticas.
 
 El versículo 17 empieza con «de modo que», así que es una conclusión. Justo antes, Pablo dice que Cristo murió por todos «para que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos» (2 Corintios 5:15). Y añade que ya no mira a nadie «según la carne», es decir, con criterios puramente humanos.
 

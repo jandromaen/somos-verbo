@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Hebreos 12:14
 
-La carta a los Hebreos no dice quién la escribió. Sí deja claro a quién va dirigida: cristianos cansados, que llevaban tiempo en la fe, habían sufrido presiones y empezaban a aflojar. El capítulo 12 es una larga palabra de ánimo. Empieza con la imagen de una carrera y pide: «levantad las manos caídas y las rodillas paralizadas» (Hebreos 12:12).
+«Seguid la paz con todos» es fácil de firmar y difícil de cumplir, sobre todo con la persona que te complica la vida. La frase pertenece a una carta que no dice quién la escribió, pero sí a quién va dirigida: cristianos cansados, que llevaban tiempo en la fe, habían sufrido presiones y empezaban a aflojar. El capítulo 12 es una larga palabra de ánimo. Empieza con la imagen de una carrera y pide: «levantad las manos caídas y las rodillas paralizadas» (Hebreos 12:12).
 
 En ese contexto aparece el versículo 14. El verbo principal, «seguid», traduce un término griego que significa perseguir, correr detrás de algo. No es una invitación a esperar sentado a que llegue la paz, sino a buscarla con insistencia.
 

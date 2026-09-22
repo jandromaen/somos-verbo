@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 4:7
 
-La segunda carta a los Corintios es la más personal de san Pablo. En ella se defiende de quienes, en Corinto, le criticaban por su aspecto poco imponente y su forma sencilla de hablar. Frente a unos predicadores que presumían de elocuencia, Pablo no responde con una lista de éxitos, sino con sus debilidades.
+En Corinto había quien pensaba que Pablo no daba la talla. Le criticaban su aspecto poco imponente y su forma sencilla de hablar, y lo comparaban con unos predicadores que presumían de elocuencia. En esta carta, donde deja ver mucho de sí mismo, Pablo no responde con una lista de éxitos, sino con sus debilidades.
 
 En el capítulo 4 habla de su ministerio. Justo antes del versículo 7 recuerda cómo Dios, que al crear el mundo mandó que de las tinieblas resplandeciese la luz, ha encendido esa luz en el corazón de los creyentes (2 Corintios 4:6). Y a continuación introduce el contraste: ese tesoro lo llevamos en vasos de barro.
 

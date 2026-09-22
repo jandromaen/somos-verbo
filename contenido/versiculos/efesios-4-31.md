@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Efesios 4:31
 
-La carta a los Efesios tiene dos mitades. En los tres primeros capítulos, Pablo contempla el plan de Dios: la gracia, la reconciliación, la unidad de judíos y gentiles en un solo cuerpo. A partir del capítulo 4 baja a la práctica: si eso es verdad, ¿cómo se vive en la comunidad?
+Amargura, enojo, ira, gritería, maledicencia, malicia: seis palabras que cualquiera reconoce en una discusión de familia o en una reunión que se tuerce. Pablo las reúne en la segunda mitad de su carta a los Efesios. En los tres primeros capítulos ha contemplado el plan de Dios: la gracia, la reconciliación, la unidad de judíos y gentiles en un solo cuerpo. A partir del capítulo 4 baja a la práctica: si eso es verdad, ¿cómo se vive en la comunidad?
 
 En esa segunda parte, Pablo usa una imagen de vestuario: despojarse del «viejo hombre» y vestirse del nuevo (Efesios 4:22-24). Y luego concreta qué hay que quitarse. Habla de la mentira, del robo, de las palabras corrompidas. El versículo 31 es la lista más completa, y todo lo que contiene tiene que ver con cómo nos tratamos.
 

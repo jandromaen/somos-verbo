@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 5:21
 
-La segunda carta a los Corintios es la más personal de Pablo. La escribe a una comunidad con la que ha tenido tensiones fuertes: críticas a su autoridad, malentendidos y visitas dolorosas. Por eso, además de enseñar, se defiende y abre el corazón.
+El que no conoció pecado es hecho pecado: dicha así, la frase suena casi a contradicción, y Pablo la escribe a propósito. La dirige a una comunidad con la que ha tenido tensiones fuertes: críticas a su autoridad, malentendidos y visitas dolorosas. Por eso, además de enseñar, se defiende y abre el corazón.
 
 El capítulo 5 habla de su ministerio. Pablo dice que el amor de Cristo le empuja y que, si alguno está en Cristo, «nueva criatura es» (2 Corintios 5:17). Después presenta su tarea como un servicio de reconciliación: Dios estaba en Cristo reconciliando al mundo consigo, y los apóstoles son embajadores que ruegan: «Reconciliaos con Dios» (2 Corintios 5:20). El versículo 21 explica cómo ha sido posible esa reconciliación.
 

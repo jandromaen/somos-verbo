@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Filipenses 3:14
 
-San Pablo escribe a los cristianos de Filipos desde la prisión. La carta es cálida, llena de agradecimiento y de alegría, pero en el capítulo 3 cambia de tono. Advierte contra quienes confiaban en sus méritos religiosos y exigían a los cristianos no judíos cumplir ciertas prácticas.
+«Una cosa hago»: en medio de una carta llena de temas, Pablo reduce su vida a una sola tarea. Escribe desde la prisión a los cristianos de Filipos, con un tono cálido, lleno de agradecimiento y de alegría, que en el capítulo 3 cambia de golpe. Ahí advierte contra quienes confiaban en sus méritos religiosos y exigían a los cristianos no judíos cumplir ciertas prácticas.
 
 Para responderles, Pablo hace algo llamativo: enseña su propio historial. Circuncidado al octavo día, del pueblo de Israel, de la tribu de Benjamín, fariseo, irreprensible en el cumplimiento de la ley (Filipenses 3:5-6). Si alguien podía presumir, era él. Y sin embargo dice que todo eso lo considera pérdida por conocer a Cristo.
 

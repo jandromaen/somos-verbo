@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 5:7
 
-La segunda carta a los Corintios es la más personal de san Pablo. En ella habla de sus cansancios, de las críticas que recibe y de su debilidad física. En el capítulo 4 ha escrito que llevamos un tesoro «en vasos de barro» (2 Corintios 4:7), y en el 5 sigue con otra imagen: el cuerpo es como una tienda de campaña, una morada provisional (2 Corintios 5:1).
+Siete palabras le bastan a Pablo para describir toda una manera de moverse por la vida. Las escribe en una carta en la que habla sin reservas de sus cansancios, de las críticas que recibe y de su debilidad física. En el capítulo 4 ha dicho que llevamos un tesoro «en vasos de barro» (2 Corintios 4:7), y en el 5 sigue con otra imagen: el cuerpo es como una tienda de campaña, una morada provisional (2 Corintios 5:1).
 
 En ese contexto aparece el versículo 7. Pablo explica que, mientras vivimos en este cuerpo, estamos en cierto modo lejos del Señor, porque no lo vemos todavía. Y añade, casi de pasada: por fe andamos, no por vista. En la Reina-Valera la frase va entre paréntesis, como una aclaración que se le escapa en mitad del razonamiento.
 

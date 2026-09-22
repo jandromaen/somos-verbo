@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 4:18
 
-La segunda carta a los Corintios es la más personal de san Pablo. En ella se defiende de críticas, habla de sus debilidades y cuenta con franqueza lo que ha sufrido por anunciar el evangelio. En el capítulo 4 describe su ministerio con una imagen humilde: «tenemos este tesoro en vasos de barro» (2 Corintios 4:7).
+Pablo hace aquí una cuenta que parece mal hecha: a todo lo que ha sufrido lo llama «leve tribulación momentánea». Y quien escribe así no habla desde la comodidad. En esta carta a los corintios se defiende de críticas, habla de sus debilidades y cuenta con franqueza lo que le ha costado anunciar el evangelio. En el capítulo 4 describe su ministerio con una imagen humilde: «tenemos este tesoro en vasos de barro» (2 Corintios 4:7).
 
 A continuación enumera lo que vive: atribulado pero no angustiado, perseguido pero no desamparado, derribado pero no destruido. Reconoce que su cuerpo se va desgastando, pero afirma que «el interior no obstante se renueva de día en día» (2 Corintios 4:16).
 

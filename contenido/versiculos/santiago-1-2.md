@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Santiago 1:2
 
-La carta de Santiago es una de las más prácticas del Nuevo Testamento. Tiene mucho de libro de sabiduría: frases directas sobre la lengua, el dinero, la oración o la coherencia entre fe y obras. Se dirige a cristianos dispersos, muchos pobres, que sufrían desprecio y dificultades.
+Nadie busca las dificultades, y sin embargo Santiago pide recibirlas con gozo. Su carta es de las más prácticas del Nuevo Testamento y tiene mucho de libro de sabiduría: frases directas sobre la lengua, el dinero, la oración o la coherencia entre fe y obras. Se dirige a cristianos dispersos, muchos pobres, que sufrían desprecio y dificultades.
 
 Y empieza de la forma menos esperada. Tras el saludo, lo primero que dice es: tened por sumo gozo cuando os halléis en diversas pruebas. Nada de introducciones suaves.
 

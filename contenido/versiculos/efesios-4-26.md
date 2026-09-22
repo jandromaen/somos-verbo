@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Efesios 4:26
 
-La carta a los Efesios tiene dos mitades. En los tres primeros capítulos, Pablo explica lo que Dios ha hecho en Cristo. A partir del capítulo 4 saca las consecuencias para la vida diaria, empezando por la unidad de la comunidad. Justo antes del versículo pide dejar la mentira: «hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros» (Efesios 4:25).
+Todo el mundo se enfada; la pregunta es qué hace uno con ese enfado. Pablo la aborda en la parte práctica de la carta a los Efesios. En los tres primeros capítulos ha explicado lo que Dios ha hecho en Cristo, y a partir del cuarto saca las consecuencias para la vida diaria, empezando por la unidad de la comunidad. Justo antes del versículo pide dejar la mentira: «hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros» (Efesios 4:25).
 
 El versículo 26 empieza con una frase que sorprende: «Airaos». Pablo no dice que el enfado sea malo en sí mismo. Hay cosas ante las que lo sano es indignarse, como la injusticia o el abuso. Lo que pide es que el enfado no se convierta en pecado.
 

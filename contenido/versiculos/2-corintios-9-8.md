@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 9:8
 
-La segunda carta a los Corintios es la más personal de san Pablo. En ella defiende su ministerio, abre su corazón y, en los capítulos 8 y 9, habla de dinero. Estaba organizando una colecta entre las comunidades de Macedonia y Acaya para los cristianos de Jerusalén, que pasaban necesidad. Los corintios se habían comprometido a colaborar y Pablo les anima a cumplir.
+Detrás de este versículo hay una colecta. Pablo estaba reuniendo dinero entre las comunidades de Macedonia y Acaya para los cristianos de Jerusalén, que pasaban necesidad, y los corintios se habían comprometido a colaborar. En los capítulos 8 y 9 de esta carta, que en otros pasajes es muy íntima, les anima a cumplir lo prometido.
 
 Justo antes del versículo 8 aparece una imagen agrícola: quien siembra poco, cosecha poco, y quien siembra con generosidad, cosecha con generosidad (2 Corintios 9:6). Y después, la frase conocida: «Dios ama al dador alegre» (2 Corintios 9:7).
 

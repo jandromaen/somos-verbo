@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Proverbios 22:6
 
-El libro de los Proverbios reúne dichos de sabiduría del antiguo Israel. Una gran parte se atribuye a Salomón, y el versículo 22:6 pertenece a la colección que empieza en el capítulo 10 con el título «Los proverbios de Salomón». Son frases breves, pensadas para memorizarse y transmitirse de padres a hijos.
+Quien educa a un niño se pregunta alguna vez si lo que siembra ahora quedará cuando crezca. Proverbios 22:6 responde con una frase breve, pensada para memorizarse y transmitirse de padres a hijos. Pertenece a la colección que empieza en el capítulo 10 con el título «Los proverbios de Salomón», dentro de un libro que reúne dichos de sabiduría del antiguo Israel.
 
 El verbo que se traduce como «instruye» tiene en hebreo también el sentido de iniciar o dedicar, el mismo que se usa para la dedicación de una casa o del templo. Educar a un niño es, en ese sentido, ponerle en marcha, darle un comienzo.
 

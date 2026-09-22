@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Salmo 9:9
 
-El Salmo 9 es un canto de acción de gracias atribuido a David. Empieza con alabanza: «Te alabaré, oh Jehová, con todo mi corazón». David recuerda cómo Dios ha hecho retroceder a sus enemigos y ha juzgado con justicia. Es la oración de alguien que ha visto a Dios actuar.
+El pobre y quien atraviesa un tiempo de angustia: a ellos mira este versículo, que presenta a Dios como su refugio. Pertenece al Salmo 9, un canto de acción de gracias atribuido a David que empieza con alabanza: «Te alabaré, oh Jehová, con todo mi corazón». David recuerda cómo Dios ha hecho retroceder a sus enemigos y ha juzgado con justicia. Es la oración de alguien que ha visto a Dios actuar.
 
 En hebreo, los Salmos 9 y 10 forman un acróstico: cada estrofa empieza con una letra del alfabeto, en orden. Por eso en la versión griega y latina se unieron en uno solo. Juntos hablan de un Dios que no olvida a los débiles, aunque a veces parezca que tarda.
 

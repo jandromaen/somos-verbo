@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Timoteo 3:16
 
-La segunda carta a Timoteo se presenta como la última de san Pablo. La escribe desde la prisión, consciente de que su vida se acaba, a su discípulo más cercano, al que llama «amado hijo» (2 Timoteo 1:2). Tiene algo de testamento.
+¿Para qué sirve leer la Biblia? Pablo responde con una lista muy concreta: enseñar, redargüir, corregir, instruir. Lo hace en una carta con aire de testamento, la última suya según se presenta, escrita desde la prisión cuando sabe que su vida se acaba. La destinataria es una sola persona: su discípulo más cercano, al que llama «amado hijo» (2 Timoteo 1:2).
 
 En el capítulo 3, Pablo advierte a Timoteo sobre tiempos difíciles, en los que muchos se dejarán llevar por maestros engañosos. Frente a eso le recuerda dos apoyos: lo que ha visto en la vida del propio Pablo y las Sagradas Escrituras, que conoce «desde la niñez» (2 Timoteo 3:15). Al principio de la carta ha mencionado la fe de su abuela Loida y de su madre Eunice (2 Timoteo 1:5), seguramente quienes se las enseñaron.
 

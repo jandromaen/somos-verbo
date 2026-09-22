@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Salmo 51:12
 
-El Salmo 51 es probablemente la oración de arrepentimiento más conocida de la Biblia. Su título la sitúa después de que el profeta Natán se presentara ante David para echarle en cara su pecado con Betsabé y la muerte de Urías (2 Samuel 11 y 12). En la tradición católica se conoce como el Miserere y es uno de los siete salmos penitenciales.
+La tradición pone este salmo en boca de David en el momento más bajo de su vida. Su título lo sitúa después de que el profeta Natán se presentara ante él para echarle en cara su pecado con Betsabé y la muerte de Urías (2 Samuel 11 y 12). Es probablemente la oración de arrepentimiento más conocida de la Biblia; en la tradición católica se llama Miserere y es uno de los siete salmos penitenciales.
 
 El salmo avanza por etapas. Primero, David reconoce su culpa sin excusas. Después pide limpieza: que Dios lave, purifique y borre. En el versículo 10 pide algo más profundo, un corazón nuevo. Y en el 12 llega a una petición que llama la atención: no pide solo perdón, pide que le devuelva la alegría.
 

@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Romanos 5:1
 
-La carta a los Romanos es el escrito más largo y sistemático de san Pablo. La dirigió a la comunidad cristiana de Roma, que aún no conocía en persona, probablemente desde Corinto y hacia mediados de los años 50. En los primeros capítulos argumenta que nadie, ni judío ni griego, puede presentarse ante Dios con méritos propios, y que la salvación llega como un don que se recibe por la fe.
+¿Cómo queda uno delante de Dios cuando sabe que no tiene méritos que presentar? Romanos 5:1 da la respuesta a la que Pablo lleva cuatro capítulos llegando. Escribe a la comunidad cristiana de Roma, que aún no conocía en persona, probablemente desde Corinto y hacia mediados de los años 50. En los primeros capítulos argumenta que nadie, ni judío ni griego, puede presentarse ante Dios con méritos propios, y que la salvación llega como un don que se recibe por la fe.
 
 En el capítulo 4 pone el ejemplo de Abraham, que creyó a Dios antes de cualquier ley o rito. Y el capítulo 5 empieza sacando la conclusión con un «pues»: si somos justificados por la fe, entonces tenemos paz con Dios.
 

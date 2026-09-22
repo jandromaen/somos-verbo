@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Mateo 7:7
 
-Mateo 7:7 forma parte del Sermón del Monte, el gran discurso de Jesús que ocupa los capítulos 5 a 7 del evangelio de Mateo. Ahí están las bienaventuranzas, el Padrenuestro y muchas de sus enseñanzas más conocidas. Este versículo llega casi al final, cuando Jesús habla de cómo relacionarse con Dios en la oración.
+¿Sirve de algo pedirle cosas a Dios? Jesús responde a esa duda en el Sermón del Monte, el discurso que ocupa los capítulos 5 a 7 del evangelio de Mateo y que recoge las bienaventuranzas, el Padrenuestro y muchas de sus enseñanzas más conocidas. Este versículo llega casi al final, cuando habla de cómo relacionarse con Dios en la oración.
 
 La frase tiene un ritmo fácil de recordar: pedir, buscar, llamar. Y el versículo siguiente lo refuerza: «Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá» (Mateo 7:8).
 

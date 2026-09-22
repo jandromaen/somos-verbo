@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Proverbios 20:22
 
-El libro de los Proverbios reúne dichos de sabiduría práctica, muchos atribuidos a Salomón. Están pensados para memorizarse: dos líneas, una idea clara. Proverbios 20:22 es un buen ejemplo. En la primera línea pone en tu boca una frase que casi todos hemos pensado alguna vez: «Yo me vengaré». En la segunda te da la alternativa.
+Cuando te la han jugado, la primera reacción suele ser devolverla. Proverbios 20:22 parte justo de ahí: en su primera línea pone en tu boca «Yo me vengaré», y en la segunda te ofrece otra salida. Es un dicho típico de este libro, que reúne sabiduría práctica atribuida en buena parte a Salomón: dos líneas, una idea clara, fácil de memorizar.
 
 El capítulo 20 va saltando de tema en tema: el vino, la pereza, las balanzas trucadas, la palabra dada. Pero varios de sus dichos giran alrededor de la justicia y de quién tiene la última palabra. Dos versículos después se lee: «De Jehová son los pasos del hombre» (Proverbios 20:24). El sabio sabe que no controla todo.
 

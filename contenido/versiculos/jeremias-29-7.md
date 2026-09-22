@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Jeremías 29:7
 
-El capítulo 29 de Jeremías es una carta. El profeta, que sigue en Jerusalén, la envía a los judíos que Nabucodonosor se había llevado a Babilonia en la primera deportación (Jeremías 29:1). Entre ellos circulaban profetas que anunciaban una vuelta rápida. Jeremías les dice lo contrario: esto va para largo.
+Rezar por la ciudad que te ha deportado: eso es lo que Jeremías pide a sus lectores, y no es poca cosa. El profeta, que sigue en Jerusalén, escribe a los judíos que Nabucodonosor se había llevado a Babilonia en la primera deportación, y el capítulo 29 recoge esa carta (Jeremías 29:1). Entre los desterrados circulaban profetas que anunciaban una vuelta rápida. Jeremías les dice lo contrario: esto va para largo.
 
 Por eso sus instrucciones son muy prácticas: «Edificad casas, y habitadlas; y plantad huertos, y comed del fruto de ellos» (Jeremías 29:5). Casaos, tened hijos, que vuestras familias crezcan. No viváis con la maleta hecha.
 

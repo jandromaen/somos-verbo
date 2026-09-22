@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Timoteo 4:7
 
-La segunda carta a Timoteo es, según la tradición, el último escrito de san Pablo. Está preso en Roma, muchos le han abandonado y sabe que no saldrá con vida. Escribe a Timoteo, su colaborador más cercano, al que llama «amado hijo». Es una carta de relevo: Pablo se va y Timoteo tiene que seguir.
+Tres verbos en pasado, he peleado, he acabado, he guardado: así hace balance de su vida alguien que sabe que le queda poco. Según la tradición, esta carta es el último escrito de san Pablo. Está preso en Roma, muchos le han abandonado y no espera salir con vida. Escribe a Timoteo, su colaborador más cercano, al que llama «amado hijo». Es una carta de relevo: Pablo se va y Timoteo tiene que seguir.
 
 Justo antes de nuestro versículo, Pablo pone palabras a lo que le espera: «Porque yo ya estoy para ser sacrificado, y el tiempo de mi partida está cercano» (2 Timoteo 4:6). No lo dice con dramatismo, sino con una serenidad sorprendente. Y entonces mira hacia atrás.
 

@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 1 Tesalonicenses 5:24
 
-La primera carta a los Tesalonicenses es probablemente uno de los escritos más antiguos del Nuevo Testamento. Pablo había fundado la comunidad en Tesalónica, en Macedonia, pero tuvo que marcharse deprisa por la hostilidad que encontró (Hechos 17:1-10). Dejó atrás a unos cristianos recién convertidos y le preocupaba si aguantarían.
+«Fiel es el que os llama»: después de pedir mucho a sus lectores, Pablo termina poniendo el peso en Dios, no en ellos. Para entender por qué, conviene saber cómo había dejado a esa comunidad. Fundó la iglesia de Tesalónica, en Macedonia, pero tuvo que marcharse deprisa por la hostilidad que encontró (Hechos 17:1-10). Dejó atrás a unos cristianos recién convertidos y le preocupaba si aguantarían.
 
 La carta es su respuesta a las buenas noticias que le trae Timoteo: siguen firmes. Aun así, en el capítulo 5 Pablo les da una lista de recomendaciones rápidas: estad siempre gozosos, orad sin cesar, dad gracias en todo, no apaguéis al Espíritu, examinadlo todo.
 

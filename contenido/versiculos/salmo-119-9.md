@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Salmo 119:9
 
-El Salmo 119 es el capítulo más largo de la Biblia. Está compuesto por veintidós estrofas, una por cada letra del alfabeto hebreo, y todas giran en torno a la palabra de Dios. El versículo 9 abre la segunda estrofa, la de la letra *bet*, y lo hace con una pregunta directa.
+El versículo arranca con una pregunta que cualquier chaval podría hacerse, aunque con otras palabras: ¿cómo acierto con mi vida? La plantea el Salmo 119, el más largo de la Biblia, formado por veintidós estrofas, una por cada letra del alfabeto hebreo, que giran en torno a la palabra de Dios. El versículo 9 abre la segunda, la de la letra *bet*.
 
 Es una pregunta de alguien que conoce las tentaciones de la juventud: la presión del grupo, las ganas de probarlo todo, la sensación de que las decisiones de ahora no tendrán consecuencias. Quien pregunta no lo hace desde la superioridad del adulto que ya lo sabe todo. De hecho, varios versículos del salmo suenan a experiencia personal: el que habla parece recordar su propio camino.
 

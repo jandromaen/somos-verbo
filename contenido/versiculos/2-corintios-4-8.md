@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa 2 Corintios 4:8
 
-La segunda carta a los Corintios es la más personal de san Pablo. En ella se defiende de unos críticos que le echaban en cara su debilidad: que hablaba mal, que sufría demasiado, que no tenía el aspecto de un gran líder. Para algunos en Corinto, un apóstol de verdad debía mostrar éxito y fuerza.
+Atribulados, en apuros, perseguidos, derribados: cuatro golpes seguidos, y detrás de cada uno, un «mas» o un «pero» que impide que el golpe sea el final. Pablo escribe esta lista para responder a unos críticos que le echaban en cara su debilidad: que hablaba mal, que sufría demasiado, que no tenía el aspecto de un gran líder. Para algunos en Corinto, un apóstol de verdad debía mostrar éxito y fuerza.
 
 Pablo no responde enseñando sus logros, sino sus heridas. Justo antes de este versículo usa una imagen conocida: «tenemos este tesoro en vasos de barro» (2 Corintios 4:7). El tesoro es el Evangelio; el vaso de barro es él mismo, frágil y corriente. Así queda claro que la fuerza viene de Dios.
 

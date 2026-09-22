@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Proverbios 20:1
 
-El capítulo 20 de Proverbios forma parte de la gran colección de dichos atribuidos a Salomón. Como tantos otros, este proverbio no da una norma, sino que observa la vida y saca una conclusión. Y lo hace con una buena dosis de ironía.
+Quien haya visto torcerse una noche de copas entiende este proverbio sin necesidad de notas. Como tantos otros dichos de la colección atribuida a Salomón, no da una norma, sino que observa la vida y saca una conclusión. Y lo hace con una buena dosis de ironía.
 
 La primera línea personifica al vino y a la bebida fuerte como si fueran personajes: uno es «escarnecedor», es decir, burlón; la otra, «alborotadora». En Proverbios, el escarnecedor es uno de los tipos más difíciles, el que se ríe de todo y no escucha consejo. El alborotador es el que arma jaleo. El proverbio viene a decir: si dejas que la bebida mande, acabarás siendo como ellos.
 

@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Salmo 33:4
 
-El Salmo 33 es un himno de alabanza. Empieza con una invitación a la fiesta: «Alegraos, oh justos, en Jehová» (Salmo 33:1), y pide instrumentos y un «cántico nuevo». No se queda en el entusiasmo, sin embargo. En el versículo 4 da razones.
+¿Por qué alabar a Dios? Los tres primeros versículos del Salmo 33 invitan a cantar y a tocar; el cuarto explica el motivo. El himno empieza como una fiesta: «Alegraos, oh justos, en Jehová» (Salmo 33:1), y pide instrumentos y un «cántico nuevo». Pero no se queda en el entusiasmo.
 
 La frase tiene dos mitades que forman pareja: la palabra de Dios y su obra. Lo que Dios dice y lo que Dios hace. De la primera se afirma que es recta; de la segunda, que está hecha con fidelidad. Es decir, en Dios no hay distancia entre las promesas y los hechos.
 

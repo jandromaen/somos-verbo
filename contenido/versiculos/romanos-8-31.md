@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Romanos 8:31
 
-La Carta a los Romanos es la más larga y sistemática de san Pablo. La escribe a la comunidad cristiana de Roma, que aún no conocía en persona, para presentarles el Evangelio que predica. El capítulo 8 es uno de sus puntos culminantes: habla de la vida en el Espíritu, de ser hijos de Dios y de la esperanza en medio del sufrimiento.
+«¿Quién contra nosotros?» es una pregunta retórica: Pablo no espera que nadie levante la mano. La plantea en su carta a los Romanos, escrita a una comunidad que aún no conocía en persona para presentarles el Evangelio que predica, y que es la más extensa y ordenada de las suyas. El capítulo 8 habla de la vida en el Espíritu, de ser hijos de Dios y de la esperanza en medio del sufrimiento.
 
 Justo antes del versículo 31, Pablo ha escrito algunas de sus frases más conocidas: «Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien» (Romanos 8:28). Después ha descrito el plan de Dios con una cadena de verbos: conoció, predestinó, llamó, justificó, glorificó. Y entonces se detiene y pregunta: «¿Qué, pues, diremos a esto?».
 

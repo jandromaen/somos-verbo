@@ -23,7 +23,7 @@ faqs:
 
 ## Qué significa Gálatas 6:9
 
-La carta a los Gálatas es una de las más apasionadas de san Pablo. La escribe a comunidades que él mismo había fundado en Galacia y que estaban a punto de aceptar otra enseñanza: que para ser cristiano había que circuncidarse y cumplir toda la ley de Moisés. Pablo defiende con fuerza que somos justificados por la fe en Cristo, no por esas obras.
+«No nos cansemos» está escrito en primera persona del plural: Pablo no da el consejo desde fuera, se incluye. Lo hace al final de una carta que escribió con pasión a comunidades que él mismo había fundado en Galacia. Estaban a punto de aceptar otra enseñanza: que para ser cristiano había que circuncidarse y cumplir toda la ley de Moisés. Pablo defiende con fuerza que somos justificados por la fe en Cristo, no por esas obras.
 
 Pero en el capítulo final aterriza. La libertad cristiana no es hacer lo que a uno le da la gana: «Sobrellevad los unos las cargas de los otros» (Gálatas 6:2). Y justo antes de nuestro versículo usa una imagen agrícola: «todo lo que el hombre sembrare, eso también segará» (Gálatas 6:7).
 
