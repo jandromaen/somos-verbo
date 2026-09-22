@@ -1,0 +1,247 @@
+651. Salmo 18:2
+652. Mateo 11:30
+653. Proverbios 11:25
+654. 1 Corintios 10:31
+655. Salmo 119:10
+656. Gálatas 6:7
+657. 2 Corintios 1:3
+658. Salmo 20:7
+659. Mateo 5:10
+660. Proverbios 21:23
+661. Juan 15:9
+662. Isaías 40:8
+663. Salmo 121:5
+664. Romanos 12:9
+665. 1 Juan 4:18
+666. Filipenses 4:19
+667. Mateo 7:8
+668. Proverbios 15:13
+669. Salmo 56:3
+670. 2 Timoteo 3:16
+671. Juan 14:15
+672. Hebreos 10:23
+673. Salmo 119:103
+674. 1 Corintios 13:8
+675. Isaías 43:2
+676. Efesios 4:31
+677. Salmo 33:12
+678. Santiago 1:2
+679. Proverbios 16:32
+680. Mateo 6:34
+681. Salmo 145:18
+682. 2 Corintios 5:21
+683. Colosenses 3:16
+684. Salmo 27:14
+685. Juan 10:28
+686. Proverbios 24:16
+687. Romanos 8:37
+688. 1 Pedro 2:24
+689. Salmo 119:116
+690. Isaías 40:28
+691. Gálatas 6:2
+692. Salmo 32:8
+693. 1 Juan 3:18
+694. Proverbios 17:22
+695. Mateo 18:22
+696. Salmo 62:8
+697. 2 Timoteo 2:15
+698. Hebreos 12:2
+699. Salmo 119:165
+700. Isaías 54:10
+701. Efesios 2:19
+702. Proverbios 18:21
+703. Mateo 5:3
+704. Salmo 37:3
+705. Romanos 8:14
+706. 1 Corintios 1:18
+707. Salmo 90:12
+708. Santiago 1:12
+709. Proverbios 22:1
+710. Juan 12:46
+711. Salmo 103:1
+712. 2 Corintios 5:1
+713. Filipenses 4:11
+714. Salmo 34:10
+715. Isaías 9:6
+716. Colosenses 3:12
+717. Proverbios 29:11
+718. Mateo 5:4
+719. Salmo 8:1
+720. 1 Pedro 5:8
+721. Filipenses 1:21
+722. Salmo 121:1
+723. Lucas 12:34
+724. Proverbios 15:22
+725. Juan 13:35
+726. Romanos 5:1
+727. Hebreos 13:5
+728. Salmo 119:14
+729. Isaías 40:26
+730. 1 Juan 2:15
+731. Salmo 40:1
+732. Proverbios 20:1
+733. Mateo 22:37
+734. Salmo 119:11
+735. 2 Corintios 12:10
+736. Colosenses 4:2
+737. Salmo 51:1
+738. Juan 6:47
+739. Proverbios 16:8
+740. Romanos 15:7
+741. Salmo 118:14
+742. Isaías 26:12
+743. Efesios 5:15
+744. Salmo 139:14
+745. Santiago 1:19
+746. 1 Pedro 1:15
+747. Proverbios 14:29
+748. Mateo 6:12
+749. Salmo 119:72
+750. Filipenses 2:14
+751. Juan 15:4
+752. Proverbios 12:15
+753. 2 Corintios 4:7
+754. Salmo 119:133
+755. Isaías 53:6
+756. Gálatas 2:20
+757. Salmo 95:1
+758. 1 Juan 5:13
+759. Proverbios 13:3
+760. Mateo 18:3
+761. Salmo 119:45
+762. Romanos 8:2
+763. Efesios 6:1
+764. Salmo 19:1
+765. Juan 4:24
+766. Proverbios 11:2
+767. 1 Corintios 15:58
+768. Isaías 40:31
+769. Santiago 4:10
+770. Salmo 119:28
+771. Lucas 11:9
+772. Proverbios 15:28
+773. Salmo 119:18
+774. 2 Corintios 3:18
+775. 1 Pedro 5:7
+776. Salmo 62:1
+777. Juan 1:14
+778. Proverbios 21:3
+779. Romanos 12:18
+780. Filipenses 3:13
+781. Salmo 119:77
+782. Isaías 43:19
+783. Efesios 4:15
+784. Salmo 37:24
+785. 1 Juan 1:9
+786. Proverbios 28:13
+787. Mateo 5:11
+788. Salmo 119:130
+789. 2 Corintios 9:8
+790. Hebreos 11:3
+791. Salmo 86:15
+792. Juan 8:12
+793. Proverbios 16:20
+794. Romanos 5:8
+795. 1 Corintios 16:13
+796. Salmo 119:160
+797. Isaías 55:6
+798. Gálatas 6:9
+799. Salmo 119:114
+800. Lucas 1:37
+801. Proverbios 22:6
+802. Colosenses 1:13
+803. Salmo 100:3
+804. 2 Timoteo 1:7
+805. 1 Pedro 2:9
+806. Salmo 119:50
+807. Juan 11:25
+808. Proverbios 3:6
+809. Romanos 8:31
+810. Salmo 119:107
+811. Mateo 6:26
+812. Proverbios 15:4
+813. 1 Corintios 12:12
+814. Salmo 119:147
+815. Gálatas 3:28
+816. 2 Corintios 4:16
+817. Salmo 28:7
+818. Mateo 5:12
+819. Proverbios 19:11
+820. Juan 15:8
+821. Salmo 33:4
+822. Romanos 12:15
+823. 1 Juan 4:10
+824. Filipenses 4:13
+825. Mateo 7:1
+826. Proverbios 16:31
+827. Salmo 63:3
+828. 2 Timoteo 2:13
+829. Juan 10:9
+830. Hebreos 12:14
+831. Salmo 119:82
+832. 1 Corintios 1:30
+833. Isaías 53:4
+834. Efesios 3:17
+835. Salmo 119:174
+836. Proverbios 20:27
+837. Mateo 11:28
+838. Romanos 8:38
+839. 1 Pedro 3:9
+840. Salmo 37:8
+841. Lucas 6:38
+842. Proverbios 24:10
+843. Isaías 40:29
+844. Salmo 103:12
+845. Santiago 1:27
+846. 1 Juan 3:2
+847. Filipenses 2:13
+848. Salmo 34:7
+849. Mateo 24:13
+850. Colosenses 2:6
+851. Salmo 119:151
+852. Proverbios 17:9
+853. Juan 8:32
+854. Romanos 12:16
+855. 2 Corintios 5:17
+856. Salmo 103:13
+857. Isaías 26:3
+858. 1 Corintios 3:16
+859. Salmo 119:16
+860. Proverbios 27:1
+861. Mateo 5:16
+862. Gálatas 6:10
+863. Salmo 9:1
+864. Filipenses 4:7
+865. 1 Pedro 4:10
+866. Salmo 126:5
+867. Lucas 16:10
+868. Proverbios 16:2
+869. Juan 14:6
+870. Romanos 6:14
+871. Hebreos 10:24
+872. Salmo 119:176
+873. Efesios 6:10
+874. Salmo 46:1
+875. 1 Juan 4:8
+876. Proverbios 12:18
+877. Mateo 6:33
+878. Salmo 119:111
+879. 2 Corintios 1:4
+880. Colosenses 3:14
+881. Salmo 51:10
+882. Juan 15:5
+883. Proverbios 19:17
+884. 1 Corintios 10:13
+885. Salmo 119:9
+886. Isaías 32:17
+887. Efesios 2:8
+888. Salmo 139:1
+889. Santiago 1:5
+890. 1 Pedro 1:22
+891. Proverbios 15:30
+892. Mateo 5:14
+893. Salmo 119:7
+894. Romanos 15:13
+895. Filipenses 4:6
+896. Salmo 118:24
+897. Juan 3:16
