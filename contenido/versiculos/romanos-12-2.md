@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa «no os conforméis a este siglo»?"
     a: "«Conformarse» aquí no significa resignarse, sino tomar la forma de algo, amoldarse. Y «este siglo» es la manera de pensar de la época, lo que todo el mundo da por supuesto. Pablo pide no dejarse moldear sin más por esas ideas, sino pensar por uno mismo a la luz de Dios."
   - q: "¿Qué palabra griega usa Pablo para «transformaos»?"
-    a: "Usa *metamorphoō*, de donde viene «metamorfosis». Es el mismo verbo con el que los Evangelios de Mateo y Marcos describen la transfiguración de Jesús. Indica un cambio profundo que viene de dentro, no un retoque de la apariencia."
+    a: "Usa metamorphoō, de donde viene «metamorfosis». Es el mismo verbo con el que los Evangelios de Mateo y Marcos describen la transfiguración de Jesús. Indica un cambio profundo que viene de dentro, no un retoque de la apariencia."
   - q: "¿Cómo se renueva el entendimiento según Romanos 12:2?"
     a: "Pablo no da una técnica, pero el contexto de la carta apunta a la oración, la lectura de la Palabra y la vida en comunidad. Se trata de ir cambiando la forma de mirar la realidad, poco a poco, hasta que las decisiones salen de ahí. Es un proceso, no un momento."
 ---

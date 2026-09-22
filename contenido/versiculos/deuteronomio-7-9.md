@@ -18,7 +18,7 @@ faqs:
   - q: "¿Por qué Dios eligió a Israel según Deuteronomio 7?"
     a: "Los versículos 7 y 8 lo explican: no porque fueran más numerosos, sino por amor y por cumplir el juramento hecho a sus padres. El versículo 9 saca la conclusión: si Dios ha sido fiel a esa promesa, se puede confiar en él."
   - q: "¿Qué palabra hebrea hay detrás de «misericordia»?"
-    a: "Es *jésed*, una palabra muy rica que habla de amor leal, bondad fiel y compromiso que no se rompe. No es un sentimiento pasajero, sino un amor que se mantiene dentro de una relación. Por eso aparece aquí unida al pacto."
+    a: "Es jésed, una palabra muy rica que habla de amor leal, bondad fiel y compromiso que no se rompe. No es un sentimiento pasajero, sino un amor que se mantiene dentro de una relación. Por eso aparece aquí unida al pacto."
 ---
 
 ## Qué significa Deuteronomio 7:9

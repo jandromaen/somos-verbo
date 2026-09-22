@@ -16,7 +16,7 @@ faqs:
   - q: "¿Quién es el Verbo en Juan 1:1?"
     a: "Es Jesucristo. El propio prólogo del Evangelio lo aclara unos versículos después: «Y aquel Verbo fue hecho carne, y habitó entre nosotros» (Juan 1:14). Juan llama «Verbo», es decir, Palabra, al Hijo de Dios antes de nacer como hombre en Belén."
   - q: "¿Por qué se dice «Verbo» y no «Palabra»?"
-    a: "Las dos traducciones son correctas. El original griego es *logos*, que significa palabra, pero también razón o sentido. «Verbo» viene del latín *verbum*, que usaba la Vulgata, y así pasó a muchas traducciones clásicas en español, como la Reina-Valera. Otras biblias actuales prefieren «la Palabra»."
+    a: "Las dos traducciones son correctas. El original griego es logos, que significa palabra, pero también razón o sentido. «Verbo» viene del latín verbum, que usaba la Vulgata, y así pasó a muchas traducciones clásicas en español, como la Reina-Valera. Otras biblias actuales prefieren «la Palabra»."
   - q: "¿Qué relación tiene Juan 1:1 con Génesis 1:1?"
     a: "Juan empieza su Evangelio con las mismas palabras que el primer libro de la Biblia: «En el principio». Es intencionado. Quiere que el lector recuerde la creación, en la que Dios crea hablando, y descubra que esa Palabra creadora es la que se ha hecho hombre en Jesús."
 ---

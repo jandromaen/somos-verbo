@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Juan 14:2, «En la casa de mi Padre m
 product_name: "Muchas moradas"
 faqs:
   - q: "¿Qué significa «muchas moradas» en Juan 14:2?"
-    a: "La palabra griega que se traduce como «moradas» (*monai*) viene del verbo «permanecer». No habla tanto de edificios como de un lugar donde quedarse para siempre con Dios. «Muchas» subraya que hay sitio de sobra: nadie se queda fuera por falta de espacio."
+    a: "La palabra griega que se traduce como «moradas» (monai) viene del verbo «permanecer». No habla tanto de edificios como de un lugar donde quedarse para siempre con Dios. «Muchas» subraya que hay sitio de sobra: nadie se queda fuera por falta de espacio."
   - q: "¿Cuándo dijo Jesús Juan 14:2?"
     a: "Durante la Última Cena, la noche antes de su muerte. Acaba de anunciar que se va, que Pedro le negará y que uno de ellos le traicionará. Los discípulos están turbados, y Jesús empieza así sus palabras de despedida para darles esperanza."
   - q: "¿Se puede usar Juan 14:2 en un funeral o para recordar a alguien?"

@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa «guardar la boca»?"
     a: "Vigilar lo que uno dice, como quien guarda la puerta de una casa. No es callar siempre, sino pensar antes de hablar, no soltar lo primero que viene a la cabeza y saber cuándo una palabra va a hacer daño. Es una forma de dominio propio."
   - q: "¿Por qué dice que el que guarda su boca «guarda su alma»?"
-    a: "En hebreo «alma» (*nefesh*) significa también la vida. El proverbio afirma algo muy práctico: muchas desgracias empiezan por una palabra dicha de más, una promesa precipitada o un comentario hiriente. Cuidar lo que dices es cuidarte a ti mismo."
+    a: "En hebreo «alma» (nefesh) significa también la vida. El proverbio afirma algo muy práctico: muchas desgracias empiezan por una palabra dicha de más, una promesa precipitada o un comentario hiriente. Cuidar lo que dices es cuidarte a ti mismo."
   - q: "¿Hay otros versículos parecidos en la Biblia?"
     a: "Sí, la Biblia vuelve a menudo sobre la lengua. Proverbios 21:23 repite una idea cercana y la carta de Santiago dedica todo su capítulo 3 a la lengua, comparándola con el pequeño timón que dirige un barco grande. También Santiago 1:19 pide ser «pronto para oír, tardo para hablar»."
 ---

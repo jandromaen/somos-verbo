@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa estar creado a imagen de Dios?"
     a: "Que el ser humano tiene una dignidad propia y una relación especial con Dios. En el mundo antiguo, la imagen de un rey representaba su presencia y su autoridad. Génesis aplica esa idea a toda persona: cada ser humano refleja algo de Dios en el mundo."
   - q: "¿Qué significa «hombre» en Génesis 1:27?"
-    a: "La palabra hebrea es *adam*, que aquí designa a la humanidad entera, no a un varón concreto. Por eso el versículo termina aclarando «varón y hembra los creó». Hombres y mujeres comparten por igual la condición de imagen de Dios."
+    a: "La palabra hebrea es adam, que aquí designa a la humanidad entera, no a un varón concreto. Por eso el versículo termina aclarando «varón y hembra los creó». Hombres y mujeres comparten por igual la condición de imagen de Dios."
   - q: "¿Por qué se repite tres veces el verbo «creó»?"
     a: "La repetición marca un momento culminante del relato. El verbo hebreo que se usa se reserva en la Biblia para la acción de Dios. Repetirlo tres veces en un solo versículo subraya que la creación del ser humano es el punto más alto de toda la obra."
 ---

@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Filipenses 2:3, «Nada hagáis por co
 product_name: "Con humildad"
 faqs:
   - q: "¿Qué significa «vanagloria» en Filipenses 2:3?"
-    a: "La vanagloria es buscar reconocimiento vacío, querer quedar bien o parecer más de lo que uno es. La palabra griega (*kenodoxía*) significa literalmente «gloria vacía». Pablo la pone junto a la «contienda», que es el espíritu de rivalidad: dos formas de competir con los demás en lugar de servirles."
+    a: "La vanagloria es buscar reconocimiento vacío, querer quedar bien o parecer más de lo que uno es. La palabra griega (kenodoxía) significa literalmente «gloria vacía». Pablo la pone junto a la «contienda», que es el espíritu de rivalidad: dos formas de competir con los demás en lugar de servirles."
   - q: "¿Estimar a los demás como superiores es despreciarse a uno mismo?"
     a: "No. Pablo no pide una baja autoestima, sino cambiar el punto de mira: dejar de medirse con los demás para ganarles. El versículo siguiente lo aclara, al decir que cada uno mire «también» por lo de los otros. Cuidar de uno mismo sigue siendo legítimo; lo que se corrige es el egoísmo."
   - q: "¿Qué relación tiene Filipenses 2:3 con el himno de Cristo?"

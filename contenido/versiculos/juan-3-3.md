@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Juan 3:3, «El que no naciere de nuev
 product_name: "Nacer de nuevo"
 faqs:
   - q: "¿Qué significa «nacer de nuevo» en Juan 3:3?"
-    a: "Significa recibir una vida nueva que viene de Dios, no de uno mismo. La palabra griega *anothen* puede traducirse como «de nuevo» y también como «de arriba», y Juan juega con los dos sentidos. Jesús lo explica después como nacer «de agua y del Espíritu» (Juan 3:5)."
+    a: "Significa recibir una vida nueva que viene de Dios, no de uno mismo. La palabra griega anothen puede traducirse como «de nuevo» y también como «de arriba», y Juan juega con los dos sentidos. Jesús lo explica después como nacer «de agua y del Espíritu» (Juan 3:5)."
   - q: "¿Quién era Nicodemo?"
     a: "Un fariseo y miembro del consejo de los judíos, un hombre respetado y culto. Va a ver a Jesús de noche, quizá por prudencia. Más adelante le defiende ante los fariseos (Juan 7:50-51) y participa en la sepultura de Jesús llevando mirra y áloes (Juan 19:39)."
   - q: "¿Cómo entienden católicos y evangélicos el «nuevo nacimiento»?"

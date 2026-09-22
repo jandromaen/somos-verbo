@@ -18,7 +18,7 @@ faqs:
   - q: "¿Por qué el salmo cambia tan de repente de la queja a la confianza?"
     a: "El texto no cuenta que la situación haya cambiado. Lo que cambia es la mirada del salmista, que decide apoyarse en la misericordia de Dios. Muchos lectores ven aquí un modelo de oración honesta: se puede decir a Dios todo lo que duele y, a la vez, elegir confiar."
   - q: "¿Qué palabra hebrea se traduce por «misericordia»?"
-    a: "Es *jésed*, una palabra que habla del amor fiel de Dios hacia su pueblo, un amor que se mantiene por compromiso aunque el otro falle. Las traducciones la vierten como misericordia, bondad, amor leal o gran amor, porque ninguna palabra en español la recoge del todo."
+    a: "Es jésed, una palabra que habla del amor fiel de Dios hacia su pueblo, un amor que se mantiene por compromiso aunque el otro falle. Las traducciones la vierten como misericordia, bondad, amor leal o gran amor, porque ninguna palabra en español la recoge del todo."
 ---
 
 ## Qué significa Salmo 13:5

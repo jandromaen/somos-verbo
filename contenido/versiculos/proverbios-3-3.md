@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Proverbios 3:3, «Átalas a tu cuello
 product_name: "Misericordia y verdad"
 faqs:
   - q: "¿Qué hay que escribir en la tabla del corazón según Proverbios 3:3?"
-    a: "La misericordia y la verdad, que aparecen al principio del versículo. En hebreo son *hesed* y *emet*, dos palabras que en el Antiguo Testamento describen a menudo el carácter de Dios: amor fiel y fidelidad. El proverbio pide que se conviertan también en el carácter de quien lo lee."
+    a: "La misericordia y la verdad, que aparecen al principio del versículo. En hebreo son hesed y emet, dos palabras que en el Antiguo Testamento describen a menudo el carácter de Dios: amor fiel y fidelidad. El proverbio pide que se conviertan también en el carácter de quien lo lee."
   - q: "¿Qué significa «átalas a tu cuello»?"
     a: "Es una imagen de algo que se lleva siempre encima y a la vista, como un collar o un adorno. Recuerda a Deuteronomio 6:8, donde se manda atar las palabras de Dios como señal en la mano. Llevar puesto un versículo tiene algo de eso: mantenerlo cerca y visible."
   - q: "¿Por qué se habla de una «tabla»?"

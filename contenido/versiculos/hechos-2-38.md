@@ -16,7 +16,7 @@ faqs:
   - q: "¿En qué momento dijo Pedro Hechos 2:38?"
     a: "El día de Pentecostés, en Jerusalén, cincuenta días después de la Pascua. Tras la venida del Espíritu Santo, Pedro predicó a una multitud llegada de muchos países. Al escucharle, se les compungió el corazón y preguntaron: «Varones hermanos, ¿qué haremos?». Este versículo es la respuesta."
   - q: "¿Qué significa «arrepentíos» en la Biblia?"
-    a: "La palabra griega es *metanoeite*, que indica un cambio de mentalidad, un giro de toda la persona. No se reduce a sentir remordimiento: es darse la vuelta y orientar la vida hacia Dios. Por eso va unido al bautismo, que expresa ese nuevo comienzo."
+    a: "La palabra griega es metanoeite, que indica un cambio de mentalidad, un giro de toda la persona. No se reduce a sentir remordimiento: es darse la vuelta y orientar la vida hacia Dios. Por eso va unido al bautismo, que expresa ese nuevo comienzo."
   - q: "¿Es un buen versículo para regalar en un bautizo?"
     a: "Sí, es de los más directamente relacionados con el bautismo en el Nuevo Testamento. Une el perdón, el nombre de Jesucristo y el don del Espíritu Santo, así que encaja tanto en bautizos de adultos como en el de un bebé o en el aniversario de un bautismo."
 ---

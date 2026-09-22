@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Juan 1:12, «les dio potestad de ser 
 product_name: "Hijos de Dios"
 faqs:
   - q: "¿Qué significa «potestad» en Juan 1:12?"
-    a: "«Potestad» traduce la palabra griega *exousía*, que significa autoridad o derecho. No es solo una posibilidad, sino un derecho concedido: quien recibe a Cristo queda legítimamente autorizado a llamarse hijo de Dios. Otras traducciones dicen «el derecho» o «el poder» de ser hijos de Dios."
+    a: "«Potestad» traduce la palabra griega exousía, que significa autoridad o derecho. No es solo una posibilidad, sino un derecho concedido: quien recibe a Cristo queda legítimamente autorizado a llamarse hijo de Dios. Otras traducciones dicen «el derecho» o «el poder» de ser hijos de Dios."
   - q: "¿No somos todos hijos de Dios?"
     a: "Todas las personas son criaturas de Dios y tienen la misma dignidad. Pero Juan habla aquí de algo más: de una filiación nueva que se recibe al acoger a Cristo y creer en su nombre. Por eso el versículo 13 dice que esos hijos no nacen «de sangre» ni «de voluntad de varón», sino de Dios."
   - q: "¿Es un buen versículo para un bautizo?"

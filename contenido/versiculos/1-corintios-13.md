@@ -18,7 +18,7 @@ faqs:
   - q: "¿1 Corintios 13 se escribió pensando en el matrimonio?"
     a: "No directamente. Pablo lo escribe a una comunidad dividida por celos y por ver quién tenía los dones espirituales más vistosos. Aun así, se lee mucho en bodas porque describe muy bien lo que exige amar a alguien día a día, y encaja en cualquier relación: pareja, familia o amistad."
   - q: "¿Qué palabra griega se usa para «amor» en 1 Corintios 13?"
-    a: "Se usa *agapē*, que en el Nuevo Testamento designa un amor que busca el bien del otro, más allá de la atracción o la simpatía. Es el mismo término con el que se habla del amor de Dios. Por eso algunas traducciones antiguas usaban «caridad» en este pasaje."
+    a: "Se usa agapē, que en el Nuevo Testamento designa un amor que busca el bien del otro, más allá de la atracción o la simpatía. Es el mismo término con el que se habla del amor de Dios. Por eso algunas traducciones antiguas usaban «caridad» en este pasaje."
 ---
 
 ## Qué significa 1 Corintios 13

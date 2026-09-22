@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con el Salmo 118:1, «Para siempre es su 
 product_name: "Para siempre su misericordia"
 faqs:
   - q: "¿Qué palabra hebrea se traduce como «misericordia» en el Salmo 118?"
-    a: "Es *jésed*, una palabra muy rica que habla del amor fiel de Dios hacia su pueblo, un amor comprometido que no se retira. Por eso otras traducciones la vierten como «amor», «lealtad» o «fidelidad». La RVR1960 usa «misericordia»."
+    a: "Es jésed, una palabra muy rica que habla del amor fiel de Dios hacia su pueblo, un amor comprometido que no se retira. Por eso otras traducciones la vierten como «amor», «lealtad» o «fidelidad». La RVR1960 usa «misericordia»."
   - q: "¿Cuándo se rezaba el Salmo 118?"
     a: "Forma parte del grupo de salmos llamado Hallel (Salmos 113-118), que se cantaba en las grandes fiestas judías, entre ellas la Pascua. Muchos entienden que es el himno que Jesús y sus discípulos cantaron al terminar la última cena (Mateo 26:30)."
   - q: "¿Por qué el Salmo 118 es tan importante para los cristianos?"

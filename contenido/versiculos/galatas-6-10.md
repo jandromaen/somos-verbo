@@ -16,7 +16,7 @@ faqs:
   - q: "¿Por qué Pablo dice «mayormente a los de la familia de la fe»?"
     a: "No pide desatender a los de fuera, puesto que empieza diciendo «a todos». Señala una responsabilidad especial hacia la propia comunidad, igual que en una familia uno se ocupa primero de los suyos sin dejar de ayudar a los vecinos. En las primeras iglesias, muchos creyentes dependían de esa ayuda mutua."
   - q: "¿Qué significa «según tengamos oportunidad»?"
-    a: "La palabra griega que se traduce como oportunidad (*kairós*) indica el momento adecuado, la ocasión que se presenta. Pablo invita a estar atentos a esas ocasiones y a no dejarlas pasar, porque no siempre vuelven."
+    a: "La palabra griega que se traduce como oportunidad (kairós) indica el momento adecuado, la ocasión que se presenta. Pablo invita a estar atentos a esas ocasiones y a no dejarlas pasar, porque no siempre vuelven."
   - q: "¿Qué relación tiene con Gálatas 6:9?"
     a: "El versículo 9 dice: «No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos». El 10 saca la consecuencia práctica con un «así que»: si no hay que cansarse, aprovechemos cada ocasión. Los dos se leen juntos."
 ---

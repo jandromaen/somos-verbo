@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Colosenses 3:15, «Y la paz de Dios g
 product_name: "La paz de Dios gobierne"
 faqs:
   - q: "¿Qué significa que la paz de Dios «gobierne» en el corazón?"
-    a: "El verbo griego que usa Pablo, *brabeúō*, viene del mundo del deporte: era la tarea del juez o árbitro que decidía en las competiciones. La paz de Dios debe ser la que arbitra, la que tiene la última palabra cuando dentro de ti chocan impulsos o decisiones."
+    a: "El verbo griego que usa Pablo, brabeúō, viene del mundo del deporte: era la tarea del juez o árbitro que decidía en las competiciones. La paz de Dios debe ser la que arbitra, la que tiene la última palabra cuando dentro de ti chocan impulsos o decisiones."
   - q: "¿La paz de Colosenses 3:15 es individual o de la comunidad?"
     a: "Las dos cosas. Empieza en el corazón de cada uno, pero Pablo añade enseguida que fuimos llamados a ella «en un solo cuerpo». Es una paz que se nota en cómo se tratan los miembros de una comunidad, una familia o un grupo."
   - q: "¿Por qué termina el versículo con «y sed agradecidos»?"

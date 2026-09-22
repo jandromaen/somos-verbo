@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con el Salmo 100:5, «Porque Jehová es b
 product_name: "Por todas las generaciones"
 faqs:
   - q: "¿Qué significa «verdad» en el Salmo 100:5?"
-    a: "La palabra hebrea es *emunah*, que significa sobre todo fidelidad, firmeza, cumplir lo prometido. No se refiere a una verdad teórica, sino a que Dios es de fiar. Muchas traducciones modernas la vierten como «fidelidad»: Dios mantiene su palabra de una generación a otra."
+    a: "La palabra hebrea es emunah, que significa sobre todo fidelidad, firmeza, cumplir lo prometido. No se refiere a una verdad teórica, sino a que Dios es de fiar. Muchas traducciones modernas la vierten como «fidelidad»: Dios mantiene su palabra de una generación a otra."
   - q: "¿Para qué se usaba el Salmo 100?"
     a: "Su encabezado lo llama «Salmo de alabanza» o de acción de gracias. Probablemente se cantaba al entrar en el templo de Jerusalén, como indica el versículo 4: «Entrad por sus puertas con acción de gracias». Hoy se sigue usando al comienzo de celebraciones, tanto en la liturgia católica como en cultos evangélicos."
   - q: "¿Es un buen versículo para regalar a una familia?"

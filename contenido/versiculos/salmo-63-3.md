@@ -16,7 +16,7 @@ faqs:
   - q: "¿Cómo puede algo ser mejor que la vida?"
     a: "El salmista no desprecia la vida, que para la Biblia es un don de Dios. Dice que hay algo todavía más valioso: el amor fiel de Dios. La vida sin ese amor se queda vacía; ese amor da sentido a la vida incluso cuando está en peligro."
   - q: "¿Qué significa «misericordia» en el Salmo 63?"
-    a: "Traduce una palabra hebrea muy rica, *hésed*, que habla del amor fiel de Dios hacia su pueblo, de su lealtad y su bondad que no se retiran. No es solo compasión ante la desgracia, sino un amor comprometido que permanece."
+    a: "Traduce una palabra hebrea muy rica, hésed, que habla del amor fiel de Dios hacia su pueblo, de su lealtad y su bondad que no se retiran. No es solo compasión ante la desgracia, sino un amor comprometido que permanece."
   - q: "¿En qué situación se escribió el Salmo 63?"
     a: "El encabezado dice que es un salmo de David cuando estaba en el desierto de Judá. David pasó por esa región huyendo de sus enemigos. Por eso el salmo habla de sed, de tierra seca y de la noche en vela."
 ---

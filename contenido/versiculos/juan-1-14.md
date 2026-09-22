@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Juan 1:14, «Y aquel Verbo fue hecho 
 product_name: "El Verbo hecho carne"
 faqs:
   - q: "¿Quién es «el Verbo» en Juan 1:14?"
-    a: "Es Jesucristo. El evangelio de Juan empieza diciendo que en el principio era el Verbo, que estaba con Dios y que era Dios (Juan 1:1). «Verbo» traduce la palabra griega *lógos*, que significa palabra, razón o mensaje. Jesús es la Palabra con la que Dios se dice a sí mismo."
+    a: "Es Jesucristo. El evangelio de Juan empieza diciendo que en el principio era el Verbo, que estaba con Dios y que era Dios (Juan 1:1). «Verbo» traduce la palabra griega lógos, que significa palabra, razón o mensaje. Jesús es la Palabra con la que Dios se dice a sí mismo."
   - q: "¿Qué significa «habitó entre nosotros»?"
     a: "El verbo griego significa literalmente «plantó su tienda». Recuerda al tabernáculo, la tienda donde Dios habitaba en medio de Israel durante la travesía del desierto. Juan dice que ahora Dios pone su tienda en una vida humana concreta, la de Jesús."
   - q: "¿Por qué este versículo se lee en Navidad?"

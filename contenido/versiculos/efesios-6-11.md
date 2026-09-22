@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué son las «asechanzas del diablo»?"
     a: "La palabra griega se refiere a estrategias, tácticas o artimañas planeadas. Pablo no piensa tanto en ataques espectaculares como en engaños sutiles: tentaciones que se presentan poco a poco, divisiones, desánimo. Por eso hace falta estar preparado."
   - q: "¿Por qué dice «toda» la armadura?"
-    a: "Porque no basta con una pieza. En griego la palabra es *panoplia*, el equipo completo de un soldado. Pablo quiere decir que la vida cristiana necesita a la vez verdad, justicia, fe, oración y la palabra de Dios, no solo una de ellas."
+    a: "Porque no basta con una pieza. En griego la palabra es panoplia, el equipo completo de un soldado. Pablo quiere decir que la vida cristiana necesita a la vez verdad, justicia, fe, oración y la palabra de Dios, no solo una de ellas."
   - q: "¿Es un versículo agresivo o violento?"
     a: "No. La imagen es militar, pero la lucha que describe no es contra personas. El versículo siguiente lo aclara: no tenemos lucha contra sangre y carne. Las armas que propone son la verdad, la justicia, la paz y la fe, no la fuerza."
 ---

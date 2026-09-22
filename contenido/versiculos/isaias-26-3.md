@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Isaías 26:3, «Tú guardarás en com
 product_name: "En completa paz"
 faqs:
   - q: "¿Por qué dice «completa paz»?"
-    a: "En hebreo el texto repite la palabra paz: *shalom, shalom*. Es una forma de intensificar, algo así como «paz y más paz» o «paz perfecta». No habla de una tranquilidad superficial, sino de una paz entera, que abarca toda la persona."
+    a: "En hebreo el texto repite la palabra paz: shalom, shalom. Es una forma de intensificar, algo así como «paz y más paz» o «paz perfecta». No habla de una tranquilidad superficial, sino de una paz entera, que abarca toda la persona."
   - q: "¿Qué significa que el pensamiento «persevera» en Dios?"
     a: "Que la mente vuelve una y otra vez a apoyarse en él. No se trata de no pensar en nada más, sino de que, cuando llegan las preocupaciones, la confianza tiene un lugar al que regresar. Es un hábito que se entrena."
   - q: "¿Es un buen versículo para quien sufre ansiedad?"

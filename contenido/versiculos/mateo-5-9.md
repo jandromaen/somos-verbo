@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Mateo 5:9, «Bienaventurados los paci
 product_name: "Los pacificadores"
 faqs:
   - q: "¿Qué es un pacificador según Mateo 5:9?"
-    a: "No es alguien pacífico que evita los problemas, sino alguien que hace la paz. El griego *eirēnopoios* une «paz» y «hacer». Es quien se mete en medio de un conflicto para reconciliar, aunque eso le cueste esfuerzo o incomodidad."
+    a: "No es alguien pacífico que evita los problemas, sino alguien que hace la paz. El griego eirēnopoios une «paz» y «hacer». Es quien se mete en medio de un conflicto para reconciliar, aunque eso le cueste esfuerzo o incomodidad."
   - q: "¿Por qué los pacificadores serán llamados hijos de Dios?"
     a: "Porque se parecen a su Padre. En la Biblia, ser «hijo de» alguien a menudo significa compartir su carácter. Dios reconcilia al mundo consigo, y quien trabaja por la paz refleja ese rasgo de familia."
   - q: "¿Pacificador significa no discutir nunca?"

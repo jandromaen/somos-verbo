@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa «la paga del pecado es muerte»?"
     a: "«Paga» traduce una palabra griega que designaba el salario o la ración de un soldado. Pablo dice que el pecado, como un amo, acaba pagando con muerte: separa de Dios, que es la fuente de la vida. No es un castigo arbitrario, sino la consecuencia de alejarse de él."
   - q: "¿Qué diferencia hay entre «paga» y «dádiva»?"
-    a: "La paga se gana: es lo que corresponde por lo que has hecho. La dádiva es un regalo que no se merece. Pablo usa la palabra griega *chárisma*, de la misma familia que «gracia». La vida eterna no es un sueldo por portarse bien, sino un don en Cristo."
+    a: "La paga se gana: es lo que corresponde por lo que has hecho. La dádiva es un regalo que no se merece. Pablo usa la palabra griega chárisma, de la misma familia que «gracia». La vida eterna no es un sueldo por portarse bien, sino un don en Cristo."
   - q: "¿Romanos 6:23 está escrito para no creyentes?"
     a: "Se usa mucho para explicar la fe a quien no la conoce, y sirve para eso. Pero Pablo lo escribe a cristianos de Roma, para que entiendan que, habiendo recibido la gracia, no tiene sentido volver a servir al pecado. Es tanto una invitación como un recordatorio."
 ---

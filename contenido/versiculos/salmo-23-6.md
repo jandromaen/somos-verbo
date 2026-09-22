@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa que el bien y la misericordia «me seguirán»?"
     a: "El verbo hebreo tiene la fuerza de «perseguir» o «ir detrás sin soltar». No describe una compañía ocasional, sino algo que te persigue todos los días. Es la imagen inversa a la del enemigo que acosa: aquí lo que no te deja en paz es la bondad de Dios."
   - q: "¿Qué palabra hebrea se traduce por «misericordia» en el Salmo 23:6?"
-    a: "Es *hésed*, una palabra muy rica que habla del amor fiel de Dios hacia su pueblo, un amor comprometido que no se retira. Por eso unas biblias la traducen como misericordia, otras como amor o bondad, y ninguna agota del todo su sentido."
+    a: "Es hésed, una palabra muy rica que habla del amor fiel de Dios hacia su pueblo, un amor comprometido que no se retira. Por eso unas biblias la traducen como misericordia, otras como amor o bondad, y ninguna agota del todo su sentido."
   - q: "¿Por qué se lee tanto el Salmo 23:6 en funerales?"
     a: "Porque su final, «en la casa de Jehová moraré por largos días», se ha leído tradicionalmente como una esperanza que va más allá de esta vida. Pero también se elige en bodas, bautizos y despedidas, porque habla de una compañía que dura todos los días."
 ---

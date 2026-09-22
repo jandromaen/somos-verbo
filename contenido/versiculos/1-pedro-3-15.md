@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con 1 Pedro 3:15, «estad siempre prepara
 product_name: "Razón de la esperanza"
 faqs:
   - q: "¿Qué significa «presentar defensa» en 1 Pedro 3:15?"
-    a: "La palabra griega es *apología*, que no significa pedir perdón, sino dar razones, como un acusado que explica su postura ante un tribunal. De ahí viene la palabra «apologética». Pedro pide a los cristianos que sepan explicar por qué creen, no que ganen discusiones."
+    a: "La palabra griega es apología, que no significa pedir perdón, sino dar razones, como un acusado que explica su postura ante un tribunal. De ahí viene la palabra «apologética». Pedro pide a los cristianos que sepan explicar por qué creen, no que ganen discusiones."
   - q: "¿Por qué Pedro insiste en la mansedumbre y la reverencia?"
     a: "Porque se puede tener razón y perderla por las formas. Pedro escribe a comunidades que sufrían insultos y sospechas, y les pide responder sin agresividad y con respeto hacia quien pregunta. El versículo siguiente lo explica: una buena conducta deja sin argumentos a quien calumnia."
   - q: "¿Es un buen versículo para regalar a alguien joven?"

@@ -18,7 +18,7 @@ faqs:
   - q: "¿Qué pregunta responde Miqueas 6:8?"
     a: "En los versículos 6 y 7 alguien pregunta con qué debe presentarse ante Dios: ¿holocaustos, becerros, miles de carneros, ríos de aceite, incluso su primogénito? El profeta responde que Dios ya ha dicho lo que quiere, y que no se trata de ofrecer más, sino de vivir de otra manera."
   - q: "¿Qué palabra hebrea hay detrás de «misericordia»?"
-    a: "La palabra es *jésed*, que expresa un amor fiel y leal, el que se mantiene dentro de una relación de compromiso. Por eso no basta con hacer actos de misericordia de vez en cuando: el versículo pide amarla, es decir, hacer de ella un estilo de vida."
+    a: "La palabra es jésed, que expresa un amor fiel y leal, el que se mantiene dentro de una relación de compromiso. Por eso no basta con hacer actos de misericordia de vez en cuando: el versículo pide amarla, es decir, hacer de ella un estilo de vida."
 ---
 
 ## Qué significa Miqueas 6:8

@@ -16,7 +16,7 @@ faqs:
   - q: "¿Mateo 18:19 promete que Dios concederá cualquier cosa si dos personas la piden?"
     a: "No funciona como una fórmula. Jesús lo dice en un pasaje sobre cómo resolver conflictos entre hermanos. La promesa se refiere a una petición hecha en comunión con él y con la voluntad del Padre, no a cualquier deseo compartido por dos personas."
   - q: "¿Qué palabra griega hay detrás de «se pusieren de acuerdo»?"
-    a: "El verbo es *symphōnéō*, de donde viene «sinfonía». Significa sonar juntos, estar en armonía. No basta con coincidir en lo que se pide: se trata de dos personas unidas de verdad, que han hecho las paces y rezan con un mismo corazón."
+    a: "El verbo es symphōnéō, de donde viene «sinfonía». Significa sonar juntos, estar en armonía. No basta con coincidir en lo que se pide: se trata de dos personas unidas de verdad, que han hecho las paces y rezan con un mismo corazón."
   - q: "¿Qué relación tiene con Mateo 18:20?"
     a: "Van juntos. El versículo 19 habla de ponerse de acuerdo al pedir, y el 20 da la razón: «donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos». La fuerza de esa oración no está en el número, sino en la presencia de Jesús."
 ---

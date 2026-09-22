@@ -14,11 +14,11 @@ meta_description: "Sudadera y camiseta con Proverbios 31:26, «Abre su boca con 
 product_name: "Ley de clemencia en su lengua"
 faqs:
   - q: "¿Qué significa «la ley de clemencia está en su lengua»?"
-    a: "Que su manera de hablar está gobernada por la bondad. La palabra hebrea que hay detrás de «clemencia» es *hesed*, que expresa amor fiel y misericordia. Esta mujer no solo dice cosas sabias: las dice con amabilidad, y eso se ha convertido en su norma, en su «ley»."
+    a: "Que su manera de hablar está gobernada por la bondad. La palabra hebrea que hay detrás de «clemencia» es hesed, que expresa amor fiel y misericordia. Esta mujer no solo dice cosas sabias: las dice con amabilidad, y eso se ha convertido en su norma, en su «ley»."
   - q: "¿Es un buen versículo para regalar a una madre?"
     a: "Sí. Proverbios 31 se asocia mucho a las madres, a las esposas y a las mujeres que sostienen una casa, una familia o una comunidad. El versículo 26 es especialmente adecuado para una madre o una abuela cuyos consejos marcaron tu vida."
   - q: "¿Qué tiene de especial el poema de Proverbios 31:10-31?"
-    a: "Es un poema acróstico: en hebreo, cada versículo empieza por una letra del alfabeto, de la primera a la última. Es una forma de decir que el retrato es completo, de la A a la Z. El versículo 26 corresponde a la letra *pe*, que significa precisamente «boca»."
+    a: "Es un poema acróstico: en hebreo, cada versículo empieza por una letra del alfabeto, de la primera a la última. Es una forma de decir que el retrato es completo, de la A a la Z. El versículo 26 corresponde a la letra pe, que significa precisamente «boca»."
 ---
 
 ## Qué significa Proverbios 31:26

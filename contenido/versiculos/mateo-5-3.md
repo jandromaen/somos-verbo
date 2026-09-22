@@ -18,7 +18,7 @@ faqs:
   - q: "¿Por qué Lucas dice solo «bienaventurados los pobres»?"
     a: "En Lucas 6:20 Jesús dice «Bienaventurados vosotros los pobres». Lucas subraya la pobreza real y material; Mateo añade «en espíritu» para destacar la actitud interior. No se contradicen: Dios está cerca del que no tiene y del que no se apoya en lo que tiene."
   - q: "¿Qué significa «bienaventurado»?"
-    a: "Traduce el griego *makarios*, que significa dichoso o feliz en un sentido profundo, no pasajero. Jesús no da una orden, sino que declara quién es verdaderamente dichoso, y lo hace con una lista que da la vuelta a lo que el mundo suele considerar éxito."
+    a: "Traduce el griego makarios, que significa dichoso o feliz en un sentido profundo, no pasajero. Jesús no da una orden, sino que declara quién es verdaderamente dichoso, y lo hace con una lista que da la vuelta a lo que el mundo suele considerar éxito."
 ---
 
 ## Qué significa Mateo 5:3

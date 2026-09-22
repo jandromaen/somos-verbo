@@ -18,7 +18,7 @@ faqs:
   - q: "¿Es Romanos 11:33 una queja porque no entendemos a Dios?"
     a: "No, es lo contrario. Pablo no se lamenta de no entender, sino que se admira. Después de reflexionar sobre la misericordia de Dios con judíos y gentiles, reconoce que su plan es más rico de lo que podía imaginar. El tono es de alabanza, no de frustración."
   - q: "¿Qué diferencia hay entre «sabiduría» y «ciencia» en este versículo?"
-    a: "La «sabiduría» apunta a la capacidad de Dios para ordenar las cosas hacia un buen fin. La «ciencia» traduce la palabra griega *gnōsis*, conocimiento: Dios lo conoce todo. Pablo junta las dos para expresar que Dios sabe y sabe hacer."
+    a: "La «sabiduría» apunta a la capacidad de Dios para ordenar las cosas hacia un buen fin. La «ciencia» traduce la palabra griega gnōsis, conocimiento: Dios lo conoce todo. Pablo junta las dos para expresar que Dios sabe y sabe hacer."
 ---
 
 ## Qué significa Romanos 11:33

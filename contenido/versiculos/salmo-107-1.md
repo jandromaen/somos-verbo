@@ -18,7 +18,7 @@ faqs:
   - q: "¿Por qué la misma frase aparece en otros salmos?"
     a: "«Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia» era una fórmula litúrgica de Israel. Se encuentra también al comienzo de los Salmos 106, 118 y 136. Funcionaba como un estribillo que el pueblo conocía y respondía."
   - q: "¿Qué significa «misericordia» en este versículo?"
-    a: "Traduce la palabra hebrea *jésed*, que habla de un amor leal, fiel a la alianza. No es solo compasión puntual, sino la fidelidad de Dios que no se rompe aunque su pueblo falle. Por eso el salmo dice que es «para siempre»."
+    a: "Traduce la palabra hebrea jésed, que habla de un amor leal, fiel a la alianza. No es solo compasión puntual, sino la fidelidad de Dios que no se rompe aunque su pueblo falle. Por eso el salmo dice que es «para siempre»."
 ---
 
 ## Qué significa Salmo 107:1

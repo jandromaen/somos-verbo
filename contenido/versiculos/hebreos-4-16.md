@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué es el «trono de la gracia»?"
     a: "Es una forma de hablar de la presencia de Dios. Un trono sugiere autoridad y juicio, pero este es «de la gracia»: el lugar donde se reciben perdón y ayuda. Hebreos dice que podemos acercarnos a él gracias a Jesús, nuestro sumo sacerdote."
   - q: "¿Por qué podemos acercarnos «confiadamente»?"
-    a: "Porque, según el versículo anterior, Jesús puede «compadecerse de nuestras debilidades», ya que fue tentado en todo como nosotros, pero sin pecado. La palabra griega *parrēsía* indica libertad para hablar, franqueza. Puedes presentarte ante Dios tal como eres."
+    a: "Porque, según el versículo anterior, Jesús puede «compadecerse de nuestras debilidades», ya que fue tentado en todo como nosotros, pero sin pecado. La palabra griega parrēsía indica libertad para hablar, franqueza. Puedes presentarte ante Dios tal como eres."
   - q: "¿Quién escribió la carta a los Hebreos?"
     a: "No se sabe con certeza. Durante siglos se atribuyó a san Pablo, pero el estilo es distinto y el texto no lleva nombre. Se han propuesto otros autores, como Apolos o Bernabé. Lo que sí está claro es que se dirige a cristianos que conocían muy bien el culto de Israel."
 ---

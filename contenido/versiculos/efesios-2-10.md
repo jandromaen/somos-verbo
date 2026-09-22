@@ -14,7 +14,7 @@ meta_description: "Sudadera y camiseta con Efesios 2:10, «Somos hechura suya».
 product_name: "Hechura suya"
 faqs:
   - q: "¿Qué significa «somos hechura suya»?"
-    a: "Significa que eres obra de Dios, algo que él ha hecho con intención. Pablo no habla solo de la creación física, sino de la vida nueva en Cristo: Dios no se limita a perdonarte, sino que te rehace. La palabra griega que se traduce como «hechura» es *poiēma*, de la que viene «poema»."
+    a: "Significa que eres obra de Dios, algo que él ha hecho con intención. Pablo no habla solo de la creación física, sino de la vida nueva en Cristo: Dios no se limita a perdonarte, sino que te rehace. La palabra griega que se traduce como «hechura» es poiēma, de la que viene «poema»."
   - q: "¿Contradice Efesios 2:10 la salvación por gracia de los versículos anteriores?"
     a: "No, la completa. Los versículos 8 y 9 dicen que la salvación es por gracia y no por obras. El 10 explica para qué te salva Dios: para una vida de buenas obras. Las obras no son la causa de la salvación, sino su fruto."
   - q: "¿Qué quiere decir que Dios preparó las buenas obras «de antemano»?"

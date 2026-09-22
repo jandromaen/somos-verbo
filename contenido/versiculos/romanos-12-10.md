@@ -16,7 +16,7 @@ faqs:
   - q: "¿Qué significa «en cuanto a honra, prefiriéndoos los unos a los otros»?"
     a: "Que cada uno se adelante a reconocer y valorar al otro, en lugar de esperar a ser reconocido. Es como una competición al revés: gana quien antes muestra respeto. Pablo lo propone como antídoto contra la rivalidad dentro de la comunidad."
   - q: "¿Qué palabras griegas usa Pablo para «amor fraternal»?"
-    a: "Usa *philadelphía*, el cariño propio de los hermanos de sangre, y la refuerza con *philóstorgos*, que evoca el afecto natural dentro de una familia. Pablo quiere que los cristianos de Roma se traten como una familia, no como socios de un club."
+    a: "Usa philadelphía, el cariño propio de los hermanos de sangre, y la refuerza con philóstorgos, que evoca el afecto natural dentro de una familia. Pablo quiere que los cristianos de Roma se traten como una familia, no como socios de un club."
   - q: "¿Es un buen versículo para regalar a un grupo o a unos hermanos?"
     a: "Sí. Encaja con grupos de jóvenes, comunidades, coros, equipos de catequistas o incluso hermanos de sangre. Recuerda que la fe se vive con otros y que el trato diario, el respeto y la cercanía son parte de ella."
 ---
