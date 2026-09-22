@@ -2,6 +2,8 @@
 
 Tienda online de ropa cristiana. El documento maestro del proyecto es [`CLAUDE.md`](./CLAUDE.md).
 
+Web provisional (rama `main`): https://somos-verbo.jandro-d31.workers.dev
+
 ## Desarrollo local
 
 Requisitos: Node.js 22 o superior.
