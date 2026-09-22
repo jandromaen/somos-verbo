@@ -7,6 +7,14 @@ describe('catálogo de versículos', () => {
     expect(new Set(allVerses.map((v) => v.reference)).size).toBe(allVerses.length);
   });
 
+  it('no repite frases de prenda (sin distinguir mayúsculas ni tildes)', () => {
+    const normalize = (text: string) =>
+      text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9ñ ]/g, '').trim();
+    const phrases = allVerses.map((v) => normalize(v.popularPhrase));
+    const repeated = phrases.filter((p, i) => phrases.indexOf(p) !== i);
+    expect(repeated).toEqual([]);
+  });
+
   it('usa slugs en minúsculas, sin tildes y con guiones', () => {
     for (const v of allVerses) expect(v.slug).toMatch(/^[a-z0-9]+(-[a-z0-9]+)*$/);
   });

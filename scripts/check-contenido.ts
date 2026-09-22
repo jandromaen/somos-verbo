@@ -19,7 +19,7 @@ const existingOnly = arg === '--existing';
 const only = arg && !existingOnly ? new Set(arg.split(',')) : undefined;
 
 // Campos que no pueden repetirse entre versículos (evita canibalización en Google).
-const uniqueFields = ['product_name', 'meta_title', 'h1', 'meta_description'] as const;
+const uniqueFields = ['product_name', 'popular_phrase', 'text_rvr', 'meta_title', 'h1', 'meta_description'] as const;
 
 const errors: string[] = [];
 const seen = new Map<string, string>();
