@@ -22,6 +22,7 @@ npm run dev
 | `npm run typecheck` | Comprobación de tipos |
 | `npm run lint` | ESLint |
 | `npm test` | Tests de Vitest |
+| `npm run check:contenido` | Valida los textos de los 101 versículos en `contenido/versiculos/` |
 | `npm run check:pendientes` | Lista los datos de negocio sin rellenar en `src/config/tienda.ts`. Falla si queda alguno. |
 
 ## Variables de entorno

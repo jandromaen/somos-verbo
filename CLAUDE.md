@@ -32,7 +32,7 @@ Eres el desarrollador principal de **Somos Verbo**, una tienda online de ropa cr
 - **Canal de captación: SOLO SEO orgánico y Google Shopping gratuito.** No hay redes sociales ni anuncios. Por tanto:
   - la velocidad, la estructura y el contenido de cada página **son** el negocio;
   - cada decisión técnica se evalúa por su impacto en SEO y en conversión móvil.
-- **Catálogo inicial:** 12 versículos × 2 prendas = 24 productos, cada uno con variantes de color y talla.
+- **Catálogo inicial:** 101 versículos × 2 prendas = 202 productos, cada uno con variantes de color y talla (decisión de Jandro, septiembre de 2026: mucho producto para atacar el SEO de cada frase bíblica).
   - Sudadera: **50 €**.
   - Camiseta: precio `[PENDIENTE]`.
 - **Estrategia SEO central:** **una landing por versículo** (p. ej. `/versiculos/filipenses-4-13`) con los productos de ese versículo, su significado real y preguntas frecuentes. Es el long-tail que la competencia no trabaja.
@@ -79,7 +79,7 @@ Eres el desarrollador principal de **Somos Verbo**, una tienda online de ropa cr
 /
 ├── CLAUDE.md                     ← este documento
 ├── contenido/
-│   └── versiculos.md             ← textos de las 12 landings (fuente para el seed)
+│   └── versiculos/{slug}.md      ← textos de las 101 landings (fuente para el seed)
 ├── src/
 │   ├── app/                      ← rutas (sección 6)
 │   ├── components/               ← UI (sección 8)
@@ -143,7 +143,7 @@ Reglas generales de URL: minúsculas, guiones, sin tildes, sin barra final, sin 
 | `/envios`, `/devoluciones`, `/guia-de-tallas`, `/contacto` | Ayuda | — | Sí |
 | `/aviso-legal`, `/privacidad`, `/cookies`, `/condiciones-de-venta` | Legal | — | Sí, sin prioridad en sitemap |
 
-**Slugs:** colecciones `fe-y-valor`, `esperanza`, `amor`, `confianza`. Ocasiones `confirmacion`, `bautizo`, `catequistas`, `sacerdotes-y-pastores`. Producto: `{prenda}-{nombre}-{versiculo}`, p. ej. `sudadera-todo-lo-puedo-filipenses-4-13`.
+**Slugs:** colecciones `fe-y-valor`, `esperanza`, `amor`, `confianza`, `sabiduria`, `alabanza`, `identidad`, `gracia`. Ocasiones `confirmacion`, `bautizo`, `catequistas`, `sacerdotes-y-pastores`. Producto: `{prenda}-{nombre}-{versiculo}`, p. ej. `sudadera-todo-lo-puedo-filipenses-4-13`.
 
 **Variantes:** color y talla **no** generan URLs. El color seleccionado puede reflejarse como `?color=negro` para compartir, con canonical siempre a la URL limpia.
 
@@ -163,7 +163,7 @@ En este orden:
 1. **Hero:** a la izquierda (arriba en móvil), la frase grande en serif «Y el Verbo se hizo carne. Ahora, prenda.» con la referencia «Juan 1:14». Debajo, el **H1** en tamaño de texto normal: «Ropa cristiana con sentido: sudaderas y camisetas con versículos de la Biblia». Dos botones: «Ver sudaderas» y «Ver camisetas». A la derecha (debajo en móvil), foto principal. La foto es el LCP: con prioridad de carga.
 2. **Colecciones:** 4 tarjetas (foto, nombre, versículos que incluye). Enlace «Ver toda la ropa cristiana».
 3. **Los más buscados:** 4 productos destacados (campo `featured`).
-4. **Busca por versículo:** chips con los 12 versículos → landings. Es enlazado interno clave: no lo quites.
+4. **Busca por versículo:** chips con los 12 versículos más buscados → landings, y enlace a `/versiculos` con los 101. Es enlazado interno clave: no lo quites.
 5. **Regalos cristianos:** 4 bloques oscuros → páginas de ocasión.
 6. **Calidad:** 3 columnas con gramaje, técnica de estampado y origen (datos de `tienda.ts`).
 7. **Texto SEO + preguntas frecuentes:** un H2 «Ropa cristiana para llevar la fe al día a día», un párrafo de 80–120 palabras y 3–5 preguntas en `<details>` (con `FAQPage`).
@@ -173,7 +173,7 @@ En este orden:
 
 - H1 («Sudaderas cristianas con versículos de la Biblia»), introducción de 2–3 líneas arriba.
 - Rejilla de productos (2 columnas en móvil, 4 en escritorio). Filtros simples por colección y color **del lado del cliente, sin URLs nuevas indexables**.
-- Bloque de enlaces a las 12 landings de versículo.
+- Bloque de enlaces a los 12 versículos más buscados y a `/versiculos`.
 - Texto SEO de 150–250 palabras **debajo** de la rejilla y 3 preguntas frecuentes.
 - Schema: `CollectionPage` + `ItemList` + `BreadcrumbList` + `FAQPage`.
 
@@ -403,7 +403,7 @@ Genera `shippingDetails` y `hasMerchantReturnPolicy` a partir de `tienda.ts`. Si
 
 - Cada producto enlaza a su landing de versículo, a su colección y a su categoría.
 - Cada landing de versículo enlaza a sus 2 productos y a los demás versículos de su colección.
-- Categorías y home enlazan a las 12 landings (chips).
+- Categorías y home enlazan a los 12 versículos más buscados (chips) y al índice `/versiculos`, que enlaza a los 101.
 - Cada artículo del blog enlaza al menos a 2 landings o productos (`relatedVerses`).
 - Anclas descriptivas («sudadera de Filipenses 4:13»), nunca «haz clic aquí».
 
@@ -434,7 +434,9 @@ Genera `shippingDetails` y `hasMerchantReturnPolicy` a partir de `tienda.ts`. Si
 
 ### 10.1 Fuente
 
-`contenido/versiculos.md` contiene, para cada uno de los 12 versículos: URL, H1, meta title, meta description, texto Reina-Valera 1960, frase popular para el diseño, nombres de producto, significado y preguntas frecuentes. **Úsalo tal cual para el seed; no reescribas los textos.** Si detectas un error, avísame.
+`contenido/versiculos/{slug}.md` contiene, para cada uno de los 101 versículos: H1, meta title, meta description, texto Reina-Valera 1960, frase popular para el diseño, nombre del producto, significado y preguntas frecuentes. El esquema está en `src/lib/content/verse-schema.ts` y `npm run check:contenido` lo valida.
+
+**Decisión de Jandro (septiembre de 2026):** Claude redacta estos textos y transcribe la Reina-Valera 1960; Jandro no necesita revisarlos. Úsalos tal cual para el seed. Si detectas un error en un texto bíblico, corrígelo y avísame.
 
 ### 10.2 Catálogo
 
@@ -452,6 +454,8 @@ Genera `shippingDetails` y `hasMerchantReturnPolicy` a partir de `tienda.ts`. Si
 | 10 | Salmo 23 | `salmo-23` | confianza | El Señor es mi pastor |
 | 11 | Proverbios 3:5 | `proverbios-3-5` | confianza | Confía en el Señor de todo corazón |
 | 12 | Mateo 11:28 | `mateo-11-28` | confianza | Venid a mí |
+
+La lista completa de 101 versículos, con su orden (de más a menos buscado), colección y frase del diseño, está en `src/config/catalogo.ts`; la tabla anterior son los 12 originales. Los 12 primeros de esa lista son los «más buscados» que se destacan en home, categorías y 404.
 
 Cada versículo tiene una sudadera y una camiseta. Colores y tallas desde `tienda.ts`. Mientras no haya fotos, usa bloques de color `placeholder` con proporción 4:5 y el texto «Foto pendiente»; **nunca imágenes de stock ni generadas**. Los productos se crean con `active = false` hasta que yo los active.
 
@@ -679,12 +683,12 @@ Next.js + TypeScript + Tailwind, tokens y fuentes, validación de entorno, `tien
 *Hecho cuando:* la vista previa carga en el móvil, el layout coincide con la sección 8, Lighthouse ≥ 90 en la home vacía y hay `noindex` en las vistas previas.
 
 **Fase 2 — Base de datos y seed**
-Migraciones de la sección 13, políticas RLS, bucket de imágenes, seed desde `contenido/versiculos.md` (12 versículos, 4 colecciones, 24 productos con variantes de ejemplo y stock de prueba) y Cron Trigger de mantenimiento.
+Migraciones de la sección 13, políticas RLS, bucket de imágenes, seed desde `contenido/versiculos/` (101 versículos, 8 colecciones, 202 productos con variantes de ejemplo y stock de prueba) y Cron Trigger de mantenimiento.
 *Hecho cuando:* el seed es reproducible con un comando, RLS comprobado (un cliente anónimo no puede leer `orders`) y los textos coinciden con la fuente.
 
 **Fase 3 — Páginas de catálogo**
 Home, categorías, índice y landings de versículo, colecciones y regalos, con generación estática, enlazado interno (9.4) y textos borrador (10.3).
-*Hecho cuando:* las 12 landings se ven completas en móvil y escritorio, cada página tiene su H1 único y la lista de borradores está entregada.
+*Hecho cuando:* las 101 landings se ven completas en móvil y escritorio, cada página tiene su H1 único y la lista de borradores está entregada.
 
 **Fase 4 — Ficha de producto y carrito**
 Galería, selectores, estados de agotado, barra fija móvil, drawer, página de carrito y persistencia.
@@ -722,7 +726,7 @@ Auditoría Lighthouse y axe, corrección de lo que baje de 90, revisión de text
 - [ ] Condiciones de cita de la Reina-Valera 1960 confirmadas
 - [ ] Search Console: propiedad verificada y sitemap enviado
 - [ ] Merchant Center: web verificada, feed enviado, listados gratuitos activos, envíos y devoluciones configurados
-- [ ] Fotos reales en los 24 productos y productos activados
+- [ ] Fotos reales en los 202 productos y productos activados
 
 ---
 

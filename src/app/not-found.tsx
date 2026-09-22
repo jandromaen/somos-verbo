@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { buttonClass } from '@/components/button';
 import { VerseChips } from '@/components/VerseChips';
-import { verses } from '@/config/catalogo';
+import { featuredVerses } from '@/config/catalogo';
 
 export const metadata: Metadata = {
   title: 'Página no encontrada',
@@ -29,7 +29,7 @@ export default function NotFound() {
       </div>
       <h2 className="mt-14 font-serif text-h3-sm lg:text-h3">Busca por versículo</h2>
       <div className="mt-4">
-        <VerseChips verses={verses} />
+        <VerseChips verses={featuredVerses} />
       </div>
     </div>
   );

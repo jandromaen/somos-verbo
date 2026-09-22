@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { buttonClass } from '@/components/button';
 import { PhotoPlaceholder } from '@/components/PhotoPlaceholder';
 import { VerseChips } from '@/components/VerseChips';
-import { verses } from '@/config/catalogo';
+import { featuredVerses, verses } from '@/config/catalogo';
 
 export const metadata: Metadata = {
   title: { absolute: 'Ropa cristiana con versículos de la Biblia | Somos Verbo' },
@@ -40,8 +40,14 @@ export default function HomePage() {
         <div className="wrap section-y">
           <h2 className="font-serif text-h2-sm lg:text-h2">Busca por versículo</h2>
           <div className="mt-6">
-            <VerseChips verses={verses} />
+            <VerseChips verses={featuredVerses} />
           </div>
+          <Link
+            href="/versiculos"
+            className="mt-6 inline-flex min-h-11 items-center font-medium underline underline-offset-4"
+          >
+            Ver los {verses.length} versículos
+          </Link>
         </div>
       </section>
     </>
