@@ -377,7 +377,7 @@ Valida cada plantilla con el Rich Results Test de Google y el validador de Schem
   "hasVariant": [
     {
       "@type": "Product",
-      "sku": "SV-FIL413-SUD-NEG-M",
+      "sku": "SV-FIL4-13-SUD-NEG-M",
       "name": "Sudadera «Todo lo puedo» – Negro – M",
       "color": "Negro",
       "size": "M",
@@ -591,7 +591,7 @@ create table products (
 create table variants (
   id uuid primary key default gen_random_uuid(),
   product_id uuid not null references products(id) on delete cascade,
-  sku text unique not null,           -- 'SV-FIL413-SUD-NEG-M'
+  sku text unique not null,           -- 'SV-FIL4-13-SUD-NEG-M'
   color_slug text not null,
   color_name text not null,
   color_hex text not null,
@@ -663,6 +663,16 @@ begin
 end $$;
 ```
 
+**Notas de implementación (fase 2).** Las migraciones reales están en `supabase/migrations/` y amplían este esquema:
+
+- `verses` añade `wave` (oleada, sección 10.5) y `text_reference` (versículos exactos citados en `text_rvr`).
+- `products.price_cents` admite `null` mientras el precio esté `[PENDIENTE]` en `tienda.ts`, con una restricción que impide activar un producto sin precio. Un producto por versículo y prenda (`unique (verse_id, garment)`).
+- Todas las tablas llevan `created_at` y `updated_at` con trigger.
+- SKU: `SV-{LIBRO}{capítulo}-{versículo}-{PRENDA}-{COLOR}-{TALLA}` (p. ej. `SV-FIL4-13-SUD-NEG-M`); el guion evita choques como Juan 1:14 / Juan 11:4. Lógica en `src/lib/catalog/codes.ts`.
+- Administradores en la tabla `admin_users` (id de usuario de Supabase Auth), sin emails en el repositorio.
+- `decrement_stock` y `next_order_number` solo las puede ejecutar el servidor (`service_role`).
+- El seed (`supabase/seed/seed.sql`) se genera con `npm run db:seed:generate` y es idempotente: no pisa el stock real ni los productos activados. Mientras no haya colores del proveedor, crea un color «de ejemplo» con stock de prueba.
+
 **Seguridad (RLS activado en todas las tablas):**
 
 - Lectura pública (`anon`): `collections`, `verses` y `verse_collections` activos; `products` y `variants` con `active = true`; `product_images`; `reviews` con `approved = true`.
@@ -691,7 +701,7 @@ Next.js + TypeScript + Tailwind, tokens y fuentes, validación de entorno, `tien
 *Hecho cuando:* la vista previa carga en el móvil, el layout coincide con la sección 8, Lighthouse ≥ 90 en la home vacía y hay `noindex` en las vistas previas.
 
 **Fase 2 — Base de datos y seed**
-Migraciones de la sección 13, políticas RLS, bucket de imágenes, seed desde `contenido/versiculos/` (1.000 versículos con su oleada, 8 colecciones, 2.000 productos con variantes de ejemplo y stock de prueba; solo los de oleadas publicadas con `active = true`) y Cron Trigger de mantenimiento.
+Migraciones de la sección 13, políticas RLS, bucket de imágenes, seed desde `contenido/versiculos/` (1.000 versículos con su oleada, 8 colecciones, 2.000 productos con variantes de ejemplo y stock de prueba; versículos de oleadas publicadas con `active = true`; productos con `active = false` hasta que tengan fotos) y Cron Trigger de mantenimiento.
 *Hecho cuando:* el seed es reproducible con un comando, RLS comprobado (un cliente anónimo no puede leer `orders`) y los textos coinciden con la fuente.
 
 **Fase 3 — Páginas de catálogo**
