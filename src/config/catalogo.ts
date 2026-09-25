@@ -6,6 +6,7 @@
  * `contenido/versiculos/*.md`.
  */
 
+import { isIndexable } from '@/lib/seo/indexing';
 import { allVerses } from './versiculos';
 
 export { allVerses };
@@ -60,8 +61,15 @@ export const collections: Collection[] = [
  */
 export const PUBLISHED_WAVE = 1;
 
-/** Versículos publicados, en orden de prioridad. */
-export const verses: Verse[] = allVerses.filter((verse) => verse.wave <= PUBLISHED_WAVE);
+/** Versículos de las oleadas publicadas, en orden de prioridad. */
+export const publishedVerses: Verse[] = allVerses.filter((verse) => verse.wave <= PUBLISHED_WAVE);
+
+/**
+ * Versículos visibles en esta web. En producción (somosverbo.es) solo los
+ * publicados; en la web provisional y en local, que nunca se indexan, los
+ * 1.000, para poder revisar todo el catálogo.
+ */
+export const verses: Verse[] = isIndexable(process.env.NEXT_PUBLIC_SITE_URL ?? '') ? publishedVerses : allVerses;
 
 export const occasions: Occasion[] = [
   { slug: 'confirmacion', name: 'Confirmación', h1: 'Regalos de confirmación: sudaderas y camisetas cristianas' },
@@ -83,4 +91,19 @@ export function getOccasion(slug: string) {
 }
 
 /** Los más buscados: los que se destacan en la home, categorías y 404. */
-export const featuredVerses = verses.slice(0, 12);
+export const featuredVerses = publishedVerses.slice(0, 12);
+
+/** Máximo de «otros versículos de la colección» en cada landing. */
+export const SIBLINGS_PER_VERSE = 12;
+
+/**
+ * Otros versículos de la misma colección: los siguientes en orden de
+ * prioridad, dando la vuelta al final. Así cada landing recibe enlaces
+ * internos de varias otras, y ninguna página se llena de cientos de chips.
+ */
+export function getSiblingVerses(verse: Verse, limit = SIBLINGS_PER_VERSE): Verse[] {
+  const inCollection = verses.filter((v) => v.collection === verse.collection);
+  const index = inCollection.findIndex((v) => v.slug === verse.slug);
+  const count = Math.min(limit, inCollection.length - 1);
+  return Array.from({ length: count }, (_, i) => inCollection[(index + 1 + i) % inCollection.length]);
+}

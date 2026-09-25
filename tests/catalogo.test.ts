@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { allVerses, collections, getVerse, PUBLISHED_WAVE, verses } from '@/config/catalogo';
+import { allVerses, collections, getSiblingVerses, getVerse, PUBLISHED_WAVE, publishedVerses, verses } from '@/config/catalogo';
 
 describe('catálogo de versículos', () => {
   it('no repite slugs ni referencias', () => {
@@ -25,8 +25,22 @@ describe('catálogo de versículos', () => {
   });
 
   it('solo publica las oleadas activas', () => {
-    expect(verses.every((v) => v.wave <= PUBLISHED_WAVE)).toBe(true);
+    expect(publishedVerses.every((v) => v.wave <= PUBLISHED_WAVE)).toBe(true);
+  });
+
+  it('en la web provisional (no indexable) muestra los 1.000 para revisarlos', () => {
+    // Los tests usan NEXT_PUBLIC_SITE_URL=http://localhost:3000, que no se indexa.
+    expect(verses).toHaveLength(allVerses.length);
     const hidden = allVerses.find((v) => v.wave > PUBLISHED_WAVE);
-    if (hidden) expect(getVerse(hidden.slug)).toBeUndefined();
+    if (hidden) expect(getVerse(hidden.slug)).toBeDefined();
+  });
+
+  it('enlaza como mucho 12 versículos hermanos de la misma colección, sin repetir el propio', () => {
+    for (const verse of verses) {
+      const siblings = getSiblingVerses(verse);
+      expect(siblings.length).toBeLessThanOrEqual(12);
+      expect(siblings.every((s) => s.collection === verse.collection && s.slug !== verse.slug)).toBe(true);
+      expect(new Set(siblings.map((s) => s.slug)).size).toBe(siblings.length);
+    }
   });
 });

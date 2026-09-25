@@ -1,8 +1,9 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { PagePlaceholder } from '@/components/PagePlaceholder';
 import { VerseChips } from '@/components/VerseChips';
-import { getCollection, getVerse, verses } from '@/config/catalogo';
+import { getCollection, getSiblingVerses, getVerse, verses } from '@/config/catalogo';
 import { pageMetadata } from '@/lib/seo/metadata';
 
 export const dynamicParams = false;
@@ -26,7 +27,7 @@ export default async function Page({ params }: PageProps<'/versiculos/[slug]'>) 
   const verse = getVerse((await params).slug);
   if (!verse) notFound();
   const collection = getCollection(verse.collection);
-  const siblings = verses.filter((v) => v.collection === verse.collection && v.slug !== verse.slug);
+  const siblings = getSiblingVerses(verse);
 
   return (
     <PagePlaceholder
@@ -47,6 +48,14 @@ export default async function Page({ params }: PageProps<'/versiculos/[slug]'>) 
       <div className="mt-4">
         <VerseChips verses={siblings} />
       </div>
+      {collection && (
+        <Link
+          href={`/colecciones/${collection.slug}`}
+          className="mt-6 inline-flex min-h-11 items-center font-medium underline underline-offset-4"
+        >
+          Ver toda la colección {collection.name}
+        </Link>
+      )}
     </PagePlaceholder>
   );
 }

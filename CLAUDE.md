@@ -474,6 +474,7 @@ Publicar cientos de páginas generadas en serie de golpe es el patrón que Googl
 - Cada versículo tiene una oleada (`wave`) en `src/config/versiculos.ts`. Solo los de `wave <= PUBLISHED_WAVE` (en `src/config/catalogo.ts`) generan landing, aparecen en listados, sitemap y feed, y activan sus productos. El resto no existe para Google (404).
 - Oleada 1 = lanzamiento (101 versículos). Después, una oleada de 50–100 versículos cada 2–4 semanas, priorizando los que Search Console muestre con impresiones.
 - Publicar una oleada = subir `PUBLISHED_WAVE` en uno y desplegar. Nunca adelantes oleadas sin que yo lo pida.
+- Excepción de revisión (decisión de Jandro): en la web provisional y en local, que llevan `noindex`, se ven los 1.000 versículos para poder revisarlos. En `somosverbo.es` solo las oleadas publicadas.
 
 ---
 
