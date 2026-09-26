@@ -7,18 +7,20 @@ type PagePlaceholderProps = {
   h1: string;
   /** Fase del plan (CLAUDE.md, sección 15) en la que se completa la página. */
   phase: number;
+  /** Introducción bajo el H1. Si falta, se muestra el aviso de contenido en preparación. */
+  intro?: string;
   children?: ReactNode;
 };
 
 /** Esqueleto de página: migas, H1 y aviso de contenido en preparación. */
-export function PagePlaceholder({ breadcrumbs, h1, phase, children }: PagePlaceholderProps) {
+export function PagePlaceholder({ breadcrumbs, h1, phase, intro, children }: PagePlaceholderProps) {
   return (
     <>
       <Breadcrumbs items={breadcrumbs} />
       <div className="wrap section-y pt-6! lg:pt-8!">
         <h1 className="max-w-4xl font-serif text-h2-sm text-balance lg:text-h2">{h1}</h1>
-        <p className="mt-4 max-w-prose text-muted">
-          Contenido en preparación (fase {phase} del plan).
+        <p className={`mt-4 max-w-prose ${intro ? 'text-ink-soft' : 'text-muted'}`}>
+          {intro ?? `Contenido en preparación (fase ${phase} del plan).`}
         </p>
         {children}
       </div>

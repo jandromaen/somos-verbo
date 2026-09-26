@@ -1,7 +1,7 @@
 /**
  * Construye el seed SQL de Supabase a partir de las fuentes del repositorio:
- * src/config/catalogo.ts, src/config/versiculos.ts, src/config/tienda.ts y
- * contenido/versiculos/*.md. El resultado es idempotente: se puede ejecutar
+ * src/config/catalogo.ts, src/config/versiculos.ts, src/config/tienda.ts,
+ * src/content/paginas/colecciones.ts y contenido/versiculos/*.md. El resultado es idempotente: se puede ejecutar
  * tantas veces como haga falta sin duplicar datos ni pisar el stock real o
  * los productos que Jandro haya activado.
  */
@@ -11,6 +11,7 @@ import matter from 'gray-matter';
 import { allVerses, collections, PUBLISHED_WAVE } from '@/config/catalogo';
 import type { Color, Tienda } from '@/config/tienda';
 import { verseFrontmatterSchema } from '@/lib/content/verse-schema';
+import { collectionCopy } from '@/content/paginas/colecciones';
 import { type Garment, productName, productSlug, sku } from './codes';
 
 /** Mientras el proveedor no confirme colores, se usa uno de ejemplo, marcado como tal. */
@@ -41,16 +42,22 @@ export function buildSeed(tienda: Tienda, contentDir = 'contenido/versiculos'): 
 
   const out: string[] = [
     '-- GENERADO por `npm run db:seed:generate`. No lo edites a mano.',
-    '-- Fuentes: src/config/{catalogo,versiculos,tienda}.ts y contenido/versiculos/*.md',
+    '-- Fuentes: src/config/{catalogo,versiculos,tienda}.ts, src/content/paginas/colecciones.ts y contenido/versiculos/*.md',
     'begin;',
     '',
     '-- Colecciones',
   ];
 
   collections.forEach((c, i) => {
+    const copy = collectionCopy[c.slug];
     out.push(
-      `insert into public.collections (slug, name, sort, meta_title) values (${lit(c.slug)}, ${lit(c.name)}, ${i + 1}, ${lit(`Ropa cristiana de ${c.theme}`)})`,
-      `  on conflict (slug) do update set name = excluded.name, sort = excluded.sort, meta_title = excluded.meta_title;`,
+      `insert into public.collections (slug, name, intro_md, seo_md, faqs, meta_title, meta_description, sort) values (` +
+        [
+          lit(c.slug), lit(c.name), lit(copy.intro), lit(copy.body), json(copy.faqs),
+          lit(`Ropa cristiana de ${c.theme}`), lit(copy.metaDescription), i + 1,
+        ].join(', ') +
+        ')',
+      `  on conflict (slug) do update set name = excluded.name, intro_md = excluded.intro_md, seo_md = excluded.seo_md, faqs = excluded.faqs, meta_title = excluded.meta_title, meta_description = excluded.meta_description, sort = excluded.sort;`,
     );
   });
 

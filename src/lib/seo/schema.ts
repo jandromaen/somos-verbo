@@ -14,3 +14,16 @@ export function breadcrumbListSchema(crumbs: Crumb[]) {
     })),
   };
 }
+
+/** Solo con preguntas visibles en la página (CLAUDE.md, 9.2). */
+export function faqPageSchema(faqs: { q: string; a: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.q,
+      acceptedAnswer: { '@type': 'Answer', text: faq.a },
+    })),
+  };
+}
