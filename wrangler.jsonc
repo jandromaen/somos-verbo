@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "somos-verbo",
-  "main": "worker.ts",
+  "main": ".open-next/worker.js",
   "compatibility_date": "2026-09-01",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "workers_dev": true,
@@ -11,7 +11,5 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
-  // Tarea diaria (05:00 UTC) que mantiene activo Supabase gratuito.
-  "triggers": { "crons": ["0 5 * * *"] },
   "observability": { "enabled": true }
 }
