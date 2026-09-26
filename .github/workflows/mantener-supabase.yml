@@ -1,0 +1,32 @@
+# Supabase gratuito se pausa tras 7 días sin actividad (CLAUDE.md, sección 3).
+# Cada día hace una lectura mínima y pública del catálogo.
+# Usa los mismos secretos que el workflow «Base de datos»:
+#   SUPABASE_ACCESS_TOKEN y SUPABASE_PROJECT_REF.
+# (El Cron Trigger de Cloudflare hacía fallar el despliegue automático de
+# Workers Builds, por eso la tarea vive aquí.)
+name: Mantener Supabase activo
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lectura mínima del catálogo
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+          SUPABASE_PROJECT_REF: ${{ secrets.SUPABASE_PROJECT_REF }}
+        run: |
+          if [ -z "$SUPABASE_ACCESS_TOKEN" ] || [ -z "$SUPABASE_PROJECT_REF" ]; then
+            echo "Faltan los secretos de Supabase; nada que hacer todavía."
+            exit 0
+          fi
+          anon=$(curl -fsS -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" \
+            "https://api.supabase.com/v1/projects/$SUPABASE_PROJECT_REF/api-keys" \
+            | jq -r '.[] | select(.name == "anon") | .api_key')
+          curl -fsS -o /dev/null -w "Supabase respondió %{http_code}\n" \
+            -H "apikey: $anon" -H "Authorization: Bearer $anon" \
+            "https://$SUPABASE_PROJECT_REF.supabase.co/rest/v1/collections?select=id&limit=1"

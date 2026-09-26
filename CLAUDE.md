@@ -69,7 +69,7 @@ Eres el desarrollador principal de **Somos Verbo**, una tienda online de ropa cr
 
 **Imágenes:** antes de elegir la solución de optimización, verifica qué es gratis en Cloudflare para este proyecto. Preferencia: generar variantes AVIF/WebP en varios anchos al subir cada imagen (script con `sharp`), guardarlas en Supabase Storage o como estáticos, y servirlas con un *loader* propio de `next/image` o `<picture>` con `srcset`. Nada de servicios de imágenes de pago sin preguntarme.
 
-**Supabase gratuito se pausa tras 7 días sin actividad.** Añade un *Cron Trigger* diario de Cloudflare que haga una consulta ligera para mantenerlo activo.
+**Supabase gratuito se pausa tras 7 días sin actividad.** Añade un *Cron Trigger* diario de Cloudflare que haga una consulta ligera para mantenerlo activo. *(Implementación: el Cron Trigger de Cloudflare hacía fallar el despliegue de Workers Builds, así que la tarea diaria vive en GitHub Actions, workflow «Mantener Supabase activo».)*
 
 ---
 
