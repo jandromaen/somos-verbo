@@ -28,7 +28,22 @@ export default function NotFound() {
         </Link>
       </div>
       <h2 className="mt-14 font-serif text-h3-sm lg:text-h3">Busca por versículo</h2>
-      <div className="mt-4">
+      <form action="/buscar" role="search" className="mt-4 flex max-w-xl gap-2">
+        <label htmlFor="buscar-404" className="sr-only">
+          Busca por referencia o por frase
+        </label>
+        <input
+          id="buscar-404"
+          type="search"
+          name="q"
+          placeholder="Juan 3:16, Salmo 23…"
+          className="min-h-12 w-full rounded-btn border border-ink bg-bg px-4 placeholder:text-muted"
+        />
+        <button type="submit" className={buttonClass.secondary}>
+          Buscar
+        </button>
+      </form>
+      <div className="mt-6">
         <VerseChips verses={featuredVerses} />
       </div>
     </div>
